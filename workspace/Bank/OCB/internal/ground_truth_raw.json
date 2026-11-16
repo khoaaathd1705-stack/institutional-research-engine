@@ -1,0 +1,2237 @@
+{
+  "ticker": "OCB",
+  "period": "9M2026",
+  "meeting_name": "OCB Earnings Call / Analyst Meeting",
+  "source_file": "OCB Presentation.pdf",
+  "total_slides": 24,
+  "slides": [
+    {
+      "slide_num": 1,
+      "image_file": "slide_01.png",
+      "title": "3Q2026 Earnings Presentation",
+      "lines_count": 4,
+      "rows": [
+        [
+          "OCB"
+        ],
+        [
+          "PERF0RMANCEANNOUNCEMENT9M2026"
+        ],
+        [
+          "HCMC,12thNovember2026"
+        ],
+        [
+          "Nguoncapdirlieu truyenphat"
+        ]
+      ],
+      "raw_text_lines": [
+        "OCB",
+        "PERF0RMANCEANNOUNCEMENT9M2026",
+        "HCMC,12thNovember2026",
+        "Nguoncapdirlieu truyenphat"
+      ]
+    },
+    {
+      "slide_num": 2,
+      "image_file": "slide_02.png",
+      "title": "9M2026 Highlights",
+      "lines_count": 24,
+      "rows": [
+        [
+          "Table ofcontents"
+        ],
+        [
+          "01.",
+          "9M2026 Highlights",
+          "CEO"
+        ],
+        [
+          "02.",
+          "9M2026 FinancialResults&FY2026Guidance",
+          "CFO"
+        ],
+        [
+          "03.",
+          "Digital Transformation&StrategicInitiatives",
+          "Managing",
+          "Director"
+        ],
+        [
+          "04.",
+          "StrategicVision &ExecutionPriorities",
+          "CEO"
+        ],
+        [
+          "05.",
+          "Q&A"
+        ],
+        [
+          "QLIVE"
+        ],
+        [
+          "OCB",
+          "MS.THUYQUYNH"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Host"
+        ],
+        [
+          "Nguoncapdurlieutruyenphat",
+          "品",
+          "..."
+        ]
+      ],
+      "raw_text_lines": [
+        "Table ofcontents",
+        "01.",
+        "9M2026 Highlights",
+        "CEO",
+        "02.",
+        "9M2026 FinancialResults&FY2026Guidance",
+        "CFO",
+        "03.",
+        "Digital Transformation&StrategicInitiatives",
+        "Managing",
+        "Director",
+        "04.",
+        "StrategicVision &ExecutionPriorities",
+        "CEO",
+        "05.",
+        "Q&A",
+        "QLIVE",
+        "OCB",
+        "MS.THUYQUYNH",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Host",
+        "Nguoncapdurlieutruyenphat",
+        "品",
+        "..."
+      ]
+    },
+    {
+      "slide_num": 3,
+      "image_file": "slide_03.png",
+      "title": "MACROUPDATE",
+      "lines_count": 25,
+      "rows": [
+        [
+          "MACROUPDATE"
+        ],
+        [
+          "GLOBALECONOMY"
+        ],
+        [
+          "Fedreturnstotightening,highUsTreasuryyields"
+        ],
+        [
+          "3.75-4.00%",
+          "5.29%",
+          ">USD 100"
+        ],
+        [
+          "FEDfundsrate",
+          "UST10Y(Sep30)",
+          "Brent price(Sep30)"
+        ],
+        [
+          "VIETNAM"
+        ],
+        [
+          "Q3/2026GDPacceleratedto9.95%"
+        ],
+        [
+          "9.95%",
+          "4.52%",
+          "USD 19.42bn"
+        ],
+        [
+          "Q3GDPYoY",
+          "AverageCPI9M",
+          "9Mtrade deficit"
+        ],
+        [
+          "Soure:OFedrlRrveSEGataasfmber06"
+        ],
+        [
+          "(LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.DUONGDUCHUNG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "ChiefExecutiveOfficer"
+        ],
+        [
+          "Nguoncap diulieutruyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "MACROUPDATE",
+        "GLOBALECONOMY",
+        "Fedreturnstotightening,highUsTreasuryyields",
+        "3.75-4.00%",
+        "5.29%",
+        ">USD 100",
+        "FEDfundsrate",
+        "UST10Y(Sep30)",
+        "Brent price(Sep30)",
+        "VIETNAM",
+        "Q3/2026GDPacceleratedto9.95%",
+        "9.95%",
+        "4.52%",
+        "USD 19.42bn",
+        "AverageCPI9M",
+        "9Mtrade deficit",
+        "Q3GDPYoY",
+        "Soure:OFedrlRrveSEGataasfmber06",
+        "(LIVE",
+        "OCB",
+        "Mr.DUONGDUCHUNG",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "ChiefExecutiveOfficer",
+        "Nguoncap diulieutruyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 4,
+      "image_file": "slide_04.png",
+      "title": "MACROUPDATE",
+      "lines_count": 23,
+      "rows": [
+        [
+          "MACROUPDATE"
+        ],
+        [
+          "MONEYMARKET&FX"
+        ],
+        [
+          "Liquidityconditionsimproved,interbankratesandUSD/vNDeased"
+        ],
+        [
+          "192tn",
+          "6.3%",
+          "25,959"
+        ],
+        [
+          "AvgOMObalanceQ3",
+          "1Minterbank(Sep30)"
+        ],
+        [
+          "CREDIT&DEPOSITS"
+        ],
+        [
+          "Depositgrowthcatchesup;depositratesremainfirm"
+        ],
+        [
+          "11.59%",
+          "10.60%",
+          "0.99pp"
+        ],
+        [
+          "Credit growthYTD",
+          "Deposit growth YTD",
+          "Credit-doposit gap"
+        ],
+        [
+          "Gap= credit grwthmius deosigrowthveragesarecalculated frmdallyVNIBORfixingsanddailyOMObalancesourceLSEGSBV.Data asofSepember30206."
+        ],
+        [
+          "(LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.DUONGDUCHUNG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "ChiefExecutiveOfficer"
+        ],
+        [
+          "NguoncapdirlieutruyenphatGo"
+        ]
+      ],
+      "raw_text_lines": [
+        "MACROUPDATE",
+        "MONEYMARKET&FX",
+        "Liquidityconditionsimproved,interbankratesandUSD/vNDeased",
+        "192tn",
+        "6.3%",
+        "25,959",
+        "AvgOMObalanceQ3",
+        "1Minterbank(Sep30)",
+        "CREDIT&DEPOSITS",
+        "Depositgrowthcatchesup;depositratesremainfirm",
+        "11.59%",
+        "10.60%",
+        "0.99pp",
+        "Credit growthYTD",
+        "Deposit growth YTD",
+        "Credit-doposit gap",
+        "Gap= credit grwthmius deosigrowthveragesarecalculated frmdallyVNIBORfixingsanddailyOMObalancesourceLSEGSBV.Data asofSepember30206.",
+        "(LIVE",
+        "OCB",
+        "Mr.DUONGDUCHUNG",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "ChiefExecutiveOfficer",
+        "NguoncapdirlieutruyenphatGo"
+      ]
+    },
+    {
+      "slide_num": 5,
+      "image_file": "slide_05.png",
+      "title": "MACROUPDATE",
+      "lines_count": 33,
+      "rows": [
+        [
+          "MACROUPDATE"
+        ],
+        [
+          "GLOBALECONOMY"
+        ],
+        [
+          "FEDistheswing:inflationvsAlrisk-off"
+        ],
+        [
+          "3.75-4.00%",
+          "4.84%",
+          "USD98"
+        ],
+        [
+          "UST10Y(Nov5)",
+          "Brent(Nov5)"
+        ],
+        [
+          "VIETNAM"
+        ],
+        [
+          "CPlheadstowardthe4.5%targetonlowerfuelandgovernmentsupport"
+        ],
+        [
+          "4.57%",
+          "17.8%",
+          "4.5%"
+        ],
+        [
+          "10Maverage CPI",
+          "RON95 price since Oct31",
+          "GovernmentCPItarget"
+        ],
+        [
+          "MONETARY&FX"
+        ],
+        [
+          "USD/vNDsupportedbyoffshoreborrowingandseasonalinflows"
+        ],
+        [
+          "3.60%",
+          "5.52%",
+          "25,680"
+        ],
+        [
+          "ONaverage,October",
+          "1Maverage,October",
+          "USDVND(Nov5)"
+        ],
+        [
+          "SourFEGstnxnigf"
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.DUONG DUCHUNG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "ChiefExecutiveOfficer"
+        ],
+        [
+          "Nguoncapdulieutruyenphat",
+          "品",
+          ".\"."
+        ]
+      ],
+      "raw_text_lines": [
+        "MACROUPDATE",
+        "GLOBALECONOMY",
+        "FEDistheswing:inflationvsAlrisk-off",
+        "3.75-4.00%",
+        "4.84%",
+        "USD98",
+        "UST10Y(Nov5)",
+        "Brent(Nov5)",
+        "VIETNAM",
+        "CPlheadstowardthe4.5%targetonlowerfuelandgovernmentsupport",
+        "4.57%",
+        "17.8%",
+        "4.5%",
+        "10Maverage CPI",
+        "RON95 price since Oct31",
+        "GovernmentCPItarget",
+        "MONETARY&FX",
+        "USD/vNDsupportedbyoffshoreborrowingandseasonalinflows",
+        "3.60%",
+        "5.52%",
+        "25,680",
+        "ONaverage,October",
+        "1Maverage,October",
+        "USDVND(Nov5)",
+        "SourFEGstnxnigf",
+        "LIVE",
+        "OCB",
+        "Mr.DUONG DUCHUNG",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "ChiefExecutiveOfficer",
+        "Nguoncapdulieutruyenphat",
+        "品",
+        ".\"."
+      ]
+    },
+    {
+      "slide_num": 6,
+      "image_file": "slide_06.png",
+      "title": "PROFITGROWTHWITHSTRONGERPROVISIONING",
+      "lines_count": 35,
+      "rows": [
+        [
+          "PROFITGROWTHWITHSTRONGERPROVISIONING"
+        ],
+        [
+          "PBT"
+        ],
+        [
+          "4,123",
+          "VND"
+        ],
+        [
+          "billion"
+        ],
+        [
+          "20%YoY"
+        ],
+        [
+          "TOTALASSETS",
+          "M1CREDIT",
+          "NII",
+          "NON-INTERESTINCOME",
+          "CIR"
+        ],
+        [
+          "364",
+          "VND",
+          "trilion",
+          "227",
+          "VND",
+          "trlion",
+          "7,676",
+          "VND",
+          "billion",
+          "1,543",
+          "VNO",
+          "billion",
+          "35%"
+        ],
+        [
+          "13%YTD",
+          "11%YTD",
+          "18%YoY",
+          "43%YoY",
+          "4%YoY"
+        ],
+        [
+          "(LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.DUONGDUCHUNG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "ChiefExecutiveOfficer"
+        ],
+        [
+          "Nguoncapdirlieutruyenphat"
+        ]
+      ],
+      "raw_text_lines": [
+        "PROFITGROWTHWITHSTRONGERPROVISIONING",
+        "PBT",
+        "VND",
+        "4,123",
+        "billion",
+        "20%YoY",
+        "TOTALASSETS",
+        "M1CREDIT",
+        "NII",
+        "NON-INTERESTINCOME",
+        "CIR",
+        "VND",
+        "227",
+        "VND",
+        "VND",
+        "VNO",
+        "364",
+        "trilion",
+        "trlion",
+        "7,676",
+        "billion",
+        "1,543",
+        "billion",
+        "35%",
+        "13%YTD",
+        "11%YTD",
+        "18%YoY",
+        "43%YoY",
+        "4%YoY",
+        "(LIVE",
+        "OCB",
+        "Mr.DUONGDUCHUNG",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "ChiefExecutiveOfficer",
+        "Nguoncapdirlieutruyenphat"
+      ]
+    },
+    {
+      "slide_num": 7,
+      "image_file": "slide_07.png",
+      "title": "9M2026FINANCIALRESULTS- FY2026GUIDANCE",
+      "lines_count": 10,
+      "rows": [
+        [
+          "02"
+        ],
+        [
+          "9M2026FINANCIALRESULTS-"
+        ],
+        [
+          "FY2026GUIDANCE"
+        ],
+        [
+          "CLIVE"
+        ],
+        [
+          "OCB",
+          "Mr.QUACH THANHLONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "HeadofFinancial ManagementCenter"
+        ],
+        [
+          "Nguoncapdurlieutruyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "02",
+        "9M2026FINANCIALRESULTS-",
+        "FY2026GUIDANCE",
+        "CLIVE",
+        "OCB",
+        "Mr.QUACH THANHLONG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "HeadofFinancial ManagementCenter",
+        "Nguoncapdurlieutruyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 8,
+      "image_file": "slide_08.png",
+      "title": "+15.4%p.a.",
+      "lines_count": 49,
+      "rows": [
+        [
+          "SOLIDSCALEGROWTH"
+        ],
+        [
+          "+15.4%p.a.",
+          "+12.0%p.a.",
+          "+2.8%p.a."
+        ],
+        [
+          "12.6%",
+          "10.8%",
+          "2.3%"
+        ],
+        [
+          "364",
+          "227",
+          "220",
+          "221",
+          "226"
+        ],
+        [
+          "315",
+          "323",
+          "203",
+          "205"
+        ],
+        [
+          "3Q2025",
+          "4Q2025",
+          "3Q2026",
+          "3Q2025",
+          "4Q2025",
+          "3Q2026",
+          "3Q2025",
+          "4Q2025",
+          "3Q2026"
+        ],
+        [
+          "TotalAssets",
+          "M1Credit",
+          "M1Mobilization"
+        ],
+        [
+          "364",
+          "VND",
+          "trillion",
+          "227",
+          "VND",
+          "trillion",
+          "226",
+          "VND",
+          "trillion"
+        ],
+        [
+          "12.6%YTD",
+          "10.8%YTD",
+          "2.3%YTD"
+        ],
+        [
+          "Source:OCB's9M2026 consolidated financiel statements"
+        ],
+        [
+          "（一0",
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.QUACH THANH LONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "HeadofFinancial ManagementCenter"
+        ],
+        [
+          "Nguoncapdur lieutruyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "SOLIDSCALEGROWTH",
+        "+15.4%p.a.",
+        "+12.0%p.a.",
+        "+2.8%p.a.",
+        "12.6%",
+        "10.8%",
+        "2.3%",
+        "364",
+        "227",
+        "220",
+        "221",
+        "226",
+        "315",
+        "323",
+        "203",
+        "205",
+        "3Q2025",
+        "4Q2025",
+        "3Q2026",
+        "3Q2025",
+        "4Q2025",
+        "3Q2026",
+        "3Q2025",
+        "4Q2025",
+        "3Q2026",
+        "TotalAssets",
+        "M1Credit",
+        "M1Mobilization",
+        "364",
+        "VND",
+        "trillion",
+        "227",
+        "VND",
+        "226",
+        "VND",
+        "12.6%YTD",
+        "10.8%YTD",
+        "trillion",
+        "2.3%YTD",
+        "trillion",
+        "Source:OCB's9M2026 consolidated financiel statements",
+        "（一0",
+        "LIVE",
+        "OCB",
+        "Mr.QUACH THANH LONG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "HeadofFinancial ManagementCenter",
+        "Nguoncapdur lieutruyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 9,
+      "image_file": "slide_09.png",
+      "title": "Selectivecreditgrowth,ledbycorporatesand",
+      "lines_count": 34,
+      "rows": [
+        [
+          "Selectivecreditgrowth,ledbycorporatesand",
+          "DIVERSIFIEDBORROWERPROFILES"
+        ],
+        [
+          "supported byarecoveryinretail lending"
+        ],
+        [
+          "18%",
+          "24%"
+        ],
+        [
+          "9.5%",
+          "5%"
+        ],
+        [
+          "Green Financing Ratio"
+        ],
+        [
+          "6%",
+          "14%"
+        ],
+        [
+          "7%"
+        ],
+        [
+          "11%",
+          "11%"
+        ],
+        [
+          "13.0%YTD",
+          "5.2%YTD",
+          "Hospitality",
+          "Real Estate",
+          "Sales&Distribution",
+          "Professionals,science and technology"
+        ],
+        [
+          "Corporate",
+          "Individual",
+          "Construction",
+          "Manufacturing&processing",
+          "Logistics",
+          "Electricity,Gas&AirConditioner"
+        ],
+        [
+          "Others"
+        ],
+        [
+          "Source:OCB's9M2026consolidated financial statements"
+        ],
+        [
+          "CLIVE"
+        ],
+        [
+          "OCB",
+          "Mr.QUACH THANH LONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "HeadofFinancial Management Center"
+        ],
+        [
+          "Nguoncapdu lieu truyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "Selectivecreditgrowth,ledbycorporatesand",
+        "DIVERSIFIEDBORROWERPROFILES",
+        "supported byarecoveryinretail lending",
+        "18%",
+        "24%",
+        "9.5%",
+        "5%",
+        "Green Financing Ratio",
+        "6%",
+        "14%",
+        "7%",
+        "11%",
+        "11%",
+        "Real Estate",
+        "Sales&Distribution",
+        "13.0%YTD",
+        "5.2%YTD",
+        "Hospitality",
+        "Professionals,science and technology",
+        "Corporate",
+        "Individual",
+        "Construction",
+        "Logistics",
+        "Others",
+        "Manufacturing&processing",
+        "Electricity,Gas&AirConditioner",
+        "Source:OCB's9M2026consolidated financial statements",
+        "CLIVE",
+        "OCB",
+        "Mr.QUACH THANH LONG",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "HeadofFinancial Management Center",
+        "Nguoncapdu lieu truyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 10,
+      "image_file": "slide_10.png",
+      "title": "Fundingwasactivelymanaged inlinewith",
+      "lines_count": 25,
+      "rows": [
+        [
+          "Fundingwasactivelymanaged inlinewith",
+          "SUSTAINABLE,CUSTOMER-LEDFUNDINGBASE"
+        ],
+        [
+          "creditdemand;CASArecovered"
+        ],
+        [
+          "3%"
+        ],
+        [
+          "18.7%YTD",
+          "CASA"
+        ],
+        [
+          "30%"
+        ],
+        [
+          "105%YTD",
+          "Liobankdeposit",
+          "59%"
+        ],
+        [
+          "8%"
+        ],
+        [
+          "68.9%YTD",
+          "RBonlineFD"
+        ],
+        [
+          "Termdeposit",
+          "CASAValuablepapers",
+          "Trustedfunds"
+        ],
+        [
+          "Source:OCB's9M2026consolidated financial statements"
+        ],
+        [
+          "0LIVE"
+        ],
+        [
+          "DOCB",
+          "Mr.QUACH THANHLONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Head ofFinancial ManagementCenter"
+        ],
+        [
+          "Nguoncapdur lieu truyenphat",
+          "品",
+          ".\"."
+        ]
+      ],
+      "raw_text_lines": [
+        "Fundingwasactivelymanaged inlinewith",
+        "SUSTAINABLE,CUSTOMER-LEDFUNDINGBASE",
+        "creditdemand;CASArecovered",
+        "3%",
+        "18.7%YTD",
+        "CASA",
+        "30%",
+        "105%YTD",
+        "Liobankdeposit",
+        "59%",
+        "8%",
+        "68.9%YTD",
+        "RBonlineFD",
+        "Termdeposit",
+        "CASAValuablepapers",
+        "Trustedfunds",
+        "Source:OCB's9M2026consolidated financial statements",
+        "0LIVE",
+        "DOCB",
+        "Mr.QUACH THANHLONG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Head ofFinancial ManagementCenter",
+        "Nguoncapdur lieu truyenphat",
+        "品",
+        ".\"."
+      ]
+    },
+    {
+      "slide_num": 11,
+      "image_file": "slide_11.png",
+      "title": "KEYRISK&LIQUIDITYMETRICS",
+      "lines_count": 35,
+      "rows": [
+        [
+          "CREDITRATING&PRUDENTRISKPROFILE"
+        ],
+        [
+          "KEYRISK&LIQUIDITYMETRICS"
+        ],
+        [
+          "MOODY'SRATING",
+          "20Sep2026"
+        ],
+        [
+          "CAR",
+          "NPLratio(SBV)"
+        ],
+        [
+          "Ba3",
+          "STABLE",
+          "12.2%",
+          "2.8%"
+        ],
+        [
+          "Long-termdeposit&issuerrating"
+        ],
+        [
+          "Compliant",
+          "Compliant"
+        ],
+        [
+          "Long-termdepositrating",
+          "Ba3"
+        ],
+        [
+          "Long-term issuerrating",
+          "Ba3",
+          "ST-funds forMLT-loans",
+          "LDR(SBV)"
+        ],
+        [
+          "Baseline CreditAssessment",
+          "B1"
+        ],
+        [
+          "Rating outlook",
+          "Stable",
+          "34.9%",
+          "70.5%"
+        ],
+        [
+          "Compliant",
+          "Compliant"
+        ],
+        [
+          "Source:OCB's9M2026consolidated financiel statements:Moodys"
+        ],
+        [
+          "（）",
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.QUACH THANH LONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Head ofFinancial ManagementCenter"
+        ],
+        [
+          "Nguoncapdu lieu truyen phat"
+        ]
+      ],
+      "raw_text_lines": [
+        "CREDITRATING&PRUDENTRISKPROFILE",
+        "KEYRISK&LIQUIDITYMETRICS",
+        "MOODY'SRATING",
+        "20Sep2026",
+        "CAR",
+        "NPLratio(SBV)",
+        "Ba3",
+        "STABLE",
+        "12.2%",
+        "2.8%",
+        "Long-termdeposit&issuerrating",
+        "Compliant",
+        "Compliant",
+        "Long-termdepositrating",
+        "Ba3",
+        "Long-term issuerrating",
+        "Ba3",
+        "ST-funds forMLT-loans",
+        "LDR(SBV)",
+        "Baseline CreditAssessment",
+        "B1",
+        "34.9%",
+        "70.5%",
+        "Rating outlook",
+        "Stable",
+        "Compliant",
+        "Compliant",
+        "Source:OCB's9M2026consolidated financiel statements:Moodys",
+        "（）",
+        "LIVE",
+        "OCB",
+        "Mr.QUACH THANH LONG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Head ofFinancial ManagementCenter",
+        "Nguoncapdu lieu truyen phat"
+      ]
+    },
+    {
+      "slide_num": 12,
+      "image_file": "slide_12.png",
+      "title": "9M2026PBTBRIDGE",
+      "lines_count": 51,
+      "rows": [
+        [
+          "9M2026PBTBRIDGE"
+        ],
+        [
+          "856",
+          "195",
+          "492",
+          "9,219"
+        ],
+        [
+          "7,676"
+        ],
+        [
+          "(3,207)"
+        ],
+        [
+          "(1,888)",
+          "4,123"
+        ],
+        [
+          "NII",
+          "NFI",
+          "FXgain",
+          "Investment&",
+          "Others",
+          "TOI",
+          "OPEX",
+          "provision",
+          "Credit",
+          "PBT"
+        ],
+        [
+          "YoY",
+          "+13.4%",
+          "+39.6%",
+          "+9.7%",
+          "+70.3%",
+          "+17.5%",
+          "+4.1%",
+          "+41.4%",
+          "+20.2%"
+        ],
+        [
+          "TOI",
+          "PBT",
+          "CIR"
+        ],
+        [
+          "9,219",
+          "VND",
+          "billion",
+          "4,123",
+          "VND",
+          "billion",
+          "34.8",
+          "%"
+        ],
+        [
+          "17.5%YoY",
+          "20.2%YoY",
+          "4.5%YoY"
+        ],
+        [
+          "Source:OCB's 9M2026 consoldated financial statements"
+        ],
+        [
+          "(LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.QUACH THANH LONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "HeadofFinancial ManagementCenter"
+        ],
+        [
+          "Nguoncap diulieu truyenphat",
+          "品",
+          "..."
+        ]
+      ],
+      "raw_text_lines": [
+        "9M2026PBTBRIDGE",
+        "195",
+        "492",
+        "9,219",
+        "7,676",
+        "856",
+        "(3,207)",
+        "4,123",
+        "(1,888)",
+        "NII",
+        "NFI",
+        "FXgain",
+        "Investment&",
+        "TOI",
+        "OPEX",
+        "Credit",
+        "PBT",
+        "Others",
+        "provision",
+        "YoY",
+        "+13.4%",
+        "+39.6%",
+        "+9.7%",
+        "+70.3%",
+        "+17.5%",
+        "+4.1%",
+        "+41.4%",
+        "+20.2%",
+        "TOI",
+        "PBT",
+        "CIR",
+        "VND",
+        "VND",
+        "%",
+        "9,219",
+        "billion",
+        "4,123",
+        "billion",
+        "34.8",
+        "17.5%YoY",
+        "20.2%YoY",
+        "4.5%YoY",
+        "Source:OCB's 9M2026 consoldated financial statements",
+        "(LIVE",
+        "OCB",
+        "Mr.QUACH THANH LONG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "HeadofFinancial ManagementCenter",
+        "Nguoncap diulieu truyenphat",
+        "品",
+        "..."
+      ]
+    },
+    {
+      "slide_num": 13,
+      "image_file": "slide_13.png",
+      "title": "BROAD-BASEDINCOMEGROWTHANDSTRONGERFEESUPPORTPROFITABILITY",
+      "lines_count": 56,
+      "rows": [
+        [
+          "BROAD-BASEDINCOMEGROWTHANDSTRONGERFEESUPPORTPROFITABILITY"
+        ],
+        [
+          "IIN",
+          "NIM(Trailing4Quarters)"
+        ],
+        [
+          "VNDbillion,%",
+          "%"
+        ],
+        [
+          "+13.4%"
+        ],
+        [
+          "7,676",
+          "Profitability"
+        ],
+        [
+          "6,767"
+        ],
+        [
+          "3.08%",
+          "3.01%",
+          "3.02%"
+        ],
+        [
+          "4Q2025",
+          "2Q2026",
+          "3Q2026",
+          "(LTM)",
+          "ROAE",
+          "12.8%"
+        ],
+        [
+          "9M2025",
+          "9M2026"
+        ],
+        [
+          "Non-NlII"
+        ],
+        [
+          "VNDbillion,%"
+        ],
+        [
+          "+42.9%",
+          "1,543",
+          "ROAA",
+          "1.3%"
+        ],
+        [
+          "1,079",
+          "(LTM)"
+        ],
+        [
+          "613",
+          "856",
+          "NFI"
+        ],
+        [
+          "178",
+          "195",
+          "FXTrading",
+          "37%YoY",
+          "57%YoY",
+          "37%YY"
+        ],
+        [
+          "495",
+          "513",
+          "Others",
+          "FXSales",
+          "Advisory"
+        ],
+        [
+          "-206",
+          "-21",
+          "SecuritiesInvestment"
+        ],
+        [
+          "9M2025",
+          "9M2026"
+        ],
+        [
+          "Source:OCB's9M2026consolidated financial statements",
+          "15"
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.QUACH THANH LONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "HeadofFinancialManagementCenter"
+        ],
+        [
+          "Nguoncapdulieutruyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "BROAD-BASEDINCOMEGROWTHANDSTRONGERFEESUPPORTPROFITABILITY",
+        "IIN",
+        "NIM(Trailing4Quarters)",
+        "VNDbillion,%",
+        "%",
+        "+13.4%",
+        "7,676",
+        "Profitability",
+        "6,767",
+        "3.08%",
+        "3.01%",
+        "3.02%",
+        "4Q2025",
+        "2Q2026",
+        "3Q2026",
+        "ROAE",
+        "(LTM)",
+        "12.8%",
+        "9M2025",
+        "9M2026",
+        "Non-NlII",
+        "VNDbillion,%",
+        "+42.9%",
+        "1,543",
+        "ROAA",
+        "1.3%",
+        "1,079",
+        "(LTM)",
+        "856",
+        "NFI",
+        "613",
+        "178",
+        "195",
+        "FXTrading",
+        "57%YoY",
+        "37%YoY",
+        "37%YY",
+        "495",
+        "513",
+        "Others",
+        "FXSales",
+        "Advisory",
+        "-206",
+        "-21",
+        "SecuritiesInvestment",
+        "9M2025",
+        "9M2026",
+        "Source:OCB's9M2026consolidated financial statements",
+        "15",
+        "LIVE",
+        "OCB",
+        "Mr.QUACH THANH LONG",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "HeadofFinancialManagementCenter",
+        "Nguoncapdulieutruyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 14,
+      "image_file": "slide_14.png",
+      "title": "4Q2026Guidance",
+      "lines_count": 64,
+      "rows": [
+        [
+          "FY2026GUIDANCE"
+        ],
+        [
+          "Metrics",
+          "2025",
+          "2026",
+          "+1-",
+          "9M2026",
+          "+1-",
+          "4Q2026Guidance"
+        ],
+        [
+          "VNDbillion%",
+          "Actual",
+          "Plan",
+          "YoY",
+          "Actual",
+          "YTD/YOY"
+        ],
+        [
+          "Totalassets",
+          "322,975",
+          "354,214",
+          "10%",
+          "363,726",
+          "13%",
+          "bank'smediumtolong-termstrategy",
+          "Achievingsustainablescalegrowth,alignedwiththe"
+        ],
+        [
+          "TotalM1Credit*",
+          "205,065",
+          "235,875",
+          "15%",
+          "227,183",
+          "11%",
+          "strategicfocussegments.",
+          "WithintheSBV'screditquota,withprioritytoOCB's"
+        ],
+        [
+          "Total M1Deposit",
+          "220,958",
+          "251,919",
+          "14%",
+          "226,111",
+          "2%",
+          "optimizingfundingcosts",
+          "Diversifying sources;ensuring strongliquidity and"
+        ],
+        [
+          "NPLratio(SBV)",
+          "2.3%",
+          "<3%",
+          "Compliant",
+          "activities;Strictcontroloverassetquality",
+          "Continuingtoacceleratedebtrecovery&collection",
+          "Ga"
+        ],
+        [
+          "Press"
+        ],
+        [
+          "PBT",
+          "5,046",
+          "6,960",
+          "39%",
+          "4,123",
+          "20%",
+          "managementandoperationalefficiency",
+          "Strengthening core businesses;Optimizing cost"
+        ],
+        [
+          "（）The credit growth issubjected to the SBV'squota",
+          "Source:OCBs9M2026oonsolidated financial statements",
+          "16"
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.QUACH THANH LONG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Head ofFinancial ManagementCenter"
+        ],
+        [
+          "Nguoncapdulieu truyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "FY2026GUIDANCE",
+        "Metrics",
+        "2025",
+        "2026",
+        "+1-",
+        "9M2026",
+        "+1-",
+        "4Q2026Guidance",
+        "VNDbillion%",
+        "Actual",
+        "Plan",
+        "YoY",
+        "Actual",
+        "YTD/YOY",
+        "Achievingsustainablescalegrowth,alignedwiththe",
+        "Totalassets",
+        "322,975",
+        "354,214",
+        "10%",
+        "363,726",
+        "13%",
+        "bank'smediumtolong-termstrategy",
+        "TotalM1Credit*",
+        "205,065",
+        "235,875",
+        "15%",
+        "227,183",
+        "11%",
+        "strategicfocussegments.",
+        "WithintheSBV'screditquota,withprioritytoOCB's",
+        "Total M1Deposit",
+        "220,958",
+        "251,919",
+        "14%",
+        "226,111",
+        "2%",
+        "Diversifying sources;ensuring strongliquidity and",
+        "optimizingfundingcosts",
+        "Ga",
+        "NPLratio(SBV)",
+        "2.3%",
+        "<3%",
+        "Compliant",
+        "Continuingtoacceleratedebtrecovery&collection",
+        "activities;Strictcontroloverassetquality",
+        "Press",
+        "Strengthening core businesses;Optimizing cost",
+        "PBT",
+        "5,046",
+        "6,960",
+        "39%",
+        "4,123",
+        "20%",
+        "managementandoperationalefficiency",
+        "（）The credit growth issubjected to the SBV'squota",
+        "Source:OCBs9M2026oonsolidated financial statements",
+        "16",
+        "LIVE",
+        "OCB",
+        "Mr.QUACH THANH LONG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Head ofFinancial ManagementCenter",
+        "Nguoncapdulieu truyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 15,
+      "image_file": "slide_15.png",
+      "title": "DIGITALTRANSFORMATION& STRATEGICINITIATIVES",
+      "lines_count": 11,
+      "rows": [
+        [
+          "03"
+        ],
+        [
+          "DIGITALTRANSFORMATION&"
+        ],
+        [
+          "STRATEGICINITIATIVES"
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.CHRISSHAYAN"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "ManagingDirector"
+        ],
+        [
+          "Nauon",
+          "ohat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "03",
+        "DIGITALTRANSFORMATION&",
+        "STRATEGICINITIATIVES",
+        "LIVE",
+        "OCB",
+        "Mr.CHRISSHAYAN",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "ManagingDirector",
+        "Nauon",
+        "ohat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 16,
+      "image_file": "slide_16.png",
+      "title": "BECOMINGAN",
+      "lines_count": 13,
+      "rows": [
+        [
+          "BECOMINGAN",
+          "Al-Native"
+        ],
+        [
+          "Ai-",
+          "Native BANK"
+        ],
+        [
+          "Thebank thatknowsyou"
+        ],
+        [
+          "andgrowswithyou."
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.CHRIS SHAYAN"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "ManagingDirector"
+        ],
+        [
+          "Nguoncäpdur lieu truyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "BECOMINGAN",
+        "Al-Native",
+        "Ai-",
+        "Native BANK",
+        "Thebank thatknowsyou",
+        "andgrowswithyou.",
+        "LIVE",
+        "OCB",
+        "Mr.CHRIS SHAYAN",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "ManagingDirector",
+        "Nguoncäpdur lieu truyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 17,
+      "image_file": "slide_17.png",
+      "title": "THEBANKFORMEMYFAMILY,MYBUSINESS",
+      "lines_count": 15,
+      "rows": [
+        [
+          "THEBANKFORMEMYFAMILY,MYBUSINESS"
+        ],
+        [
+          "ME",
+          "FAMILY",
+          "BUSINESS"
+        ],
+        [
+          "ONECUSTOMER"
+        ],
+        [
+          "Served asonerelationship,value compounds"
+        ],
+        [
+          "20"
+        ],
+        [
+          "CLIVE"
+        ],
+        [
+          "OCB",
+          "Mr.CHRISSHAYAN"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "Managing Director"
+        ],
+        [
+          "Nguoncapdurlieutruyenphat",
+          "品",
+          "..."
+        ]
+      ],
+      "raw_text_lines": [
+        "THEBANKFORMEMYFAMILY,MYBUSINESS",
+        "ME",
+        "FAMILY",
+        "BUSINESS",
+        "ONECUSTOMER",
+        "Served asonerelationship,value compounds",
+        "20",
+        "CLIVE",
+        "OCB",
+        "Mr.CHRISSHAYAN",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "Managing Director",
+        "Nguoncapdurlieutruyenphat",
+        "品",
+        "..."
+      ]
+    },
+    {
+      "slide_num": 18,
+      "image_file": "slide_18.png",
+      "title": "AITRANSFORMATION",
+      "lines_count": 29,
+      "rows": [
+        [
+          "AITRANSFORMATION"
+        ],
+        [
+          "FromIndividualAssistantsToEnterprise-WideAutomation"
+        ],
+        [
+          "01",
+          "02",
+          "03"
+        ],
+        [
+          "FORBUSINESSUSERS",
+          "DEMOCRATIZEDATAANDAI",
+          "GROWCREDITTHROUGHRISK",
+          "APPETITEANDCONTINUOUSLY",
+          "COMBINEANALYTICAL",
+          "METHODSANDAITOCREATE"
+        ],
+        [
+          "IMPROVINGMODELS",
+          "VALUEFOROCB"
+        ],
+        [
+          "20 hoursperuser",
+          "40%developmenttime",
+          "110Al use cases"
+        ],
+        [
+          "assistantshelping to complete tasks.",
+          "AveragetimesavingpermonthwithAl",
+          "Reductionindevelopment timeby",
+          "developersthrough theuseof Al tools.",
+          "centers.",
+          "Implementedacross16divisionsand"
+        ],
+        [
+          "(）LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.CHRIS SHAYAN"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Managing Director"
+        ],
+        [
+          "Nguoncapdulieutruyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "AITRANSFORMATION",
+        "FromIndividualAssistantsToEnterprise-WideAutomation",
+        "01",
+        "02",
+        "03",
+        "FORBUSINESSUSERS",
+        "DEMOCRATIZEDATAANDAI",
+        "GROWCREDITTHROUGHRISK",
+        "APPETITEANDCONTINUOUSLY",
+        "COMBINEANALYTICAL",
+        "METHODSANDAITOCREATE",
+        "IMPROVINGMODELS",
+        "VALUEFOROCB",
+        "20 hoursperuser",
+        "40%developmenttime",
+        "110Al use cases",
+        "AveragetimesavingpermonthwithAl",
+        "Reductionindevelopment timeby",
+        "Implementedacross16divisionsand",
+        "assistantshelping to complete tasks.",
+        "developersthrough theuseof Al tools.",
+        "centers.",
+        "(）LIVE",
+        "OCB",
+        "Mr.CHRIS SHAYAN",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Managing Director",
+        "Nguoncapdulieutruyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 19,
+      "image_file": "slide_19.png",
+      "title": "Digital transaction",
+      "lines_count": 28,
+      "rows": [
+        [
+          "DIGITALADOPTION&ENGAGEMENT"
+        ],
+        [
+          "Digital transaction",
+          "Digital onboarding"
+        ],
+        [
+          "98%",
+          "98%"
+        ],
+        [
+          "112%YoY",
+          "114%YoY"
+        ],
+        [
+          "$"
+        ],
+        [
+          "19% Yoy",
+          "40% Yoy",
+          "35% YoY"
+        ],
+        [
+          "AvgUniqueuserloginpermonth",
+          "FD online balance",
+          "FDonline customer"
+        ],
+        [
+          "17% YoY",
+          "15x",
+          "63% YoY"
+        ],
+        [
+          "ActiveOMNIusers",
+          "inQ3(NewCVPand100%Digital Pre-approved)",
+          "TotalMasterCard2in1issuedtoAffcustomer",
+          "Card issuinginOMNIchannel"
+        ],
+        [
+          "(LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.CHRISSHAYAN"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Managing Director"
+        ],
+        [
+          "Nguoncapdilieutruyenphat",
+          "品."
+        ]
+      ],
+      "raw_text_lines": [
+        "DIGITALADOPTION&ENGAGEMENT",
+        "Digital transaction",
+        "Digital onboarding",
+        "98%",
+        "98%",
+        "112%YoY",
+        "114%YoY",
+        "$",
+        "19% Yoy",
+        "40% Yoy",
+        "35% YoY",
+        "FD online balance",
+        "FDonline customer",
+        "AvgUniqueuserloginpermonth",
+        "17% YoY",
+        "15x",
+        "63% YoY",
+        "ActiveOMNIusers",
+        "inQ3(NewCVPand100%Digital Pre-approved)",
+        "TotalMasterCard2in1issuedtoAffcustomer",
+        "Card issuinginOMNIchannel",
+        "(LIVE",
+        "OCB",
+        "Mr.CHRISSHAYAN",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Managing Director",
+        "Nguoncapdilieutruyenphat",
+        "品."
+      ]
+    },
+    {
+      "slide_num": 20,
+      "image_file": "slide_20.png",
+      "title": "FLEXFUND",
+      "lines_count": 25,
+      "rows": [
+        [
+          "FLEXFUND"
+        ],
+        [
+          "LOANSDISBURSED"
+        ],
+        [
+          "2,200"
+        ],
+        [
+          "Since launch inAugust2026"
+        ],
+        [
+          "01",
+          "FULLYDIGITALENGAGEMENT",
+          "02",
+          "FINANCING",
+          "INSTANTANDFLEXIBLE",
+          "03",
+          "PRUDENTRISKMANAGEMENT"
+        ],
+        [
+          "Automatedapplication,approvaland",
+          "disbursement,completed entirelyonline",
+          "limit into cash anytime andanywhere.",
+          "Easily,instanty convert available credit",
+          "Loaneligibilityisautomatically",
+          "determinedusing themostcurrent"
+        ],
+        [
+          "viaOCBOMN",
+          "customerdata andriskcriteria."
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.CHRISSHAYAN"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Managing Director"
+        ],
+        [
+          "Nguoncap du lieu truyen phat"
+        ]
+      ],
+      "raw_text_lines": [
+        "FLEXFUND",
+        "LOANSDISBURSED",
+        "2,200",
+        "Since launch inAugust2026",
+        "01",
+        "FULLYDIGITALENGAGEMENT",
+        "02",
+        "INSTANTANDFLEXIBLE",
+        "03",
+        "PRUDENTRISKMANAGEMENT",
+        "FINANCING",
+        "Automatedapplication,approvaland",
+        "disbursement,completed entirelyonline",
+        "limit into cash anytime andanywhere.",
+        "Easily,instanty convert available credit",
+        "Loaneligibilityisautomatically",
+        "determinedusing themostcurrent",
+        "viaOCBOMN",
+        "customerdata andriskcriteria.",
+        "LIVE",
+        "OCB",
+        "Mr.CHRISSHAYAN",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Managing Director",
+        "Nguoncap du lieu truyen phat"
+      ]
+    },
+    {
+      "slide_num": 21,
+      "image_file": "slide_21.png",
+      "title": "FLEXISAVINGS",
+      "lines_count": 15,
+      "rows": [
+        [
+          "FLEXISAVINGS"
+        ],
+        [
+          "DEPOSITBALANCE"
+        ],
+        [
+          "87%"
+        ],
+        [
+          "Quarter-on-quartergrowth"
+        ],
+        [
+          "DEPOSITSCALE-UP",
+          "DIGITALPENETRATION",
+          "AFF&MASSAFF"
+        ],
+        [
+          ">390x",
+          "100%",
+          ">90%"
+        ],
+        [
+          "《）LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.CHRISSHAYAN"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "Managing Director"
+        ]
+      ],
+      "raw_text_lines": [
+        "FLEXISAVINGS",
+        "DEPOSITBALANCE",
+        "87%",
+        "Quarter-on-quartergrowth",
+        "DEPOSITSCALE-UP",
+        "DIGITALPENETRATION",
+        "AFF&MASSAFF",
+        ">390x",
+        "100%",
+        ">90%",
+        "《）LIVE",
+        "OCB",
+        "Mr.CHRISSHAYAN",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "Managing Director"
+      ]
+    },
+    {
+      "slide_num": 22,
+      "image_file": "slide_22.png",
+      "title": "STRATEGICVISION",
+      "lines_count": 41,
+      "rows": [
+        [
+          "STRATEGICVISION"
+        ],
+        [
+          "VISION",
+          "Top5PrivateJointStock"
+        ],
+        [
+          "Commercial Banks()",
+          "SUSTAINABLEPROFITABILITY"
+        ],
+        [
+          "MISSION",
+          "dreamsand ambitions,enabling them togrowandachieve theiraspirations.",
+          "SupportingVietnameseconsumersentrepreneursandbusinessesinrealizingtheir"
+        ],
+        [
+          "DIGITAL&AILEADERSHIP"
+        ],
+        [
+          "CORE",
+          "VALUES",
+          "Effort",
+          "Creativity",
+          "Responsibility",
+          "Customer-",
+          "centric",
+          "formutual",
+          "Collaboration"
+        ],
+        [
+          "development"
+        ],
+        [
+          "KEY",
+          "INITIATIVES",
+          "Retail banking",
+          "SMEs",
+          "Transactionbanking",
+          "ESGLEADERSHIP"
+        ],
+        [
+          "FOUNDATIONS",
+          "People",
+          "Risk",
+          "Management",
+          "Culture",
+          "OCB",
+          "AI&Digital",
+          "Capabilities"
+        ],
+        [
+          "（）ROEDigitacapbilites,ESG"
+        ],
+        [
+          "(LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.DUONGDUCHUNG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "ChiefExecutive Officer"
+        ],
+        [
+          "Nguoncapdurlieutruyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "STRATEGICVISION",
+        "VISION",
+        "Top5PrivateJointStock",
+        "Commercial Banks()",
+        "SUSTAINABLEPROFITABILITY",
+        "SupportingVietnameseconsumersentrepreneursandbusinessesinrealizingtheir",
+        "MISSION",
+        "dreamsand ambitions,enabling them togrowandachieve theiraspirations.",
+        "DIGITAL&AILEADERSHIP",
+        "CORE",
+        "VALUES",
+        "Effort",
+        "Creativity",
+        "Responsibility",
+        "Customer-",
+        "formutual",
+        "Collaboration",
+        "centric",
+        "development",
+        "KEY",
+        "INITIATIVES",
+        "Retail banking",
+        "SMEs",
+        "Transactionbanking",
+        "ESGLEADERSHIP",
+        "Risk",
+        "OCB",
+        "AI&Digital",
+        "FOUNDATIONS",
+        "People",
+        "Management",
+        "Culture",
+        "Capabilities",
+        "（）ROEDigitacapbilites,ESG",
+        "(LIVE",
+        "OCB",
+        "Mr.DUONGDUCHUNG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "ChiefExecutive Officer",
+        "Nguoncapdurlieutruyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 23,
+      "image_file": "slide_23.png",
+      "title": "ASTRONG,SCALABLE",
+      "lines_count": 19,
+      "rows": [
+        [
+          "ASTRONGFOUNDATIONFORTHENEXTPHASEOFDEVELOPMENT"
+        ],
+        [
+          "金",
+          "BUSINESSPLATFORM",
+          "ASTRONG,SCALABLE",
+          "DISCIPLINEDRISKMANAGEMENT",
+          "SUPPORTINGSUSTAINABLEGROWTH"
+        ],
+        [
+          "目",
+          "MODEL,ENHANCEDBYAI",
+          "ADIGITAL-FIRSTOPERATING",
+          "VISIBLEEARNINGSRECOVERY"
+        ],
+        [
+          "STRONGESGANDSUSTAINABLE"
+        ],
+        [
+          "DEVELOPMENTCAPABILITIES"
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.DUONG DUCHUNG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT9M2026",
+          "ChiefExecutiveOfficer"
+        ],
+        [
+          "Nguoncap dur lieu truyenphat",
+          "品"
+        ]
+      ],
+      "raw_text_lines": [
+        "ASTRONGFOUNDATIONFORTHENEXTPHASEOFDEVELOPMENT",
+        "金",
+        "ASTRONG,SCALABLE",
+        "DISCIPLINEDRISKMANAGEMENT",
+        "BUSINESSPLATFORM",
+        "SUPPORTINGSUSTAINABLEGROWTH",
+        "ADIGITAL-FIRSTOPERATING",
+        "目",
+        "MODEL,ENHANCEDBYAI",
+        "VISIBLEEARNINGSRECOVERY",
+        "STRONGESGANDSUSTAINABLE",
+        "DEVELOPMENTCAPABILITIES",
+        "LIVE",
+        "OCB",
+        "Mr.DUONG DUCHUNG",
+        "PERF0RMANCEANN0UNCEMENT9M2026",
+        "ChiefExecutiveOfficer",
+        "Nguoncap dur lieu truyenphat",
+        "品"
+      ]
+    },
+    {
+      "slide_num": 24,
+      "image_file": "slide_24.png",
+      "title": "KEYEXECUTIONPRIORITIES STRENGTHEN&EXPANDTHE",
+      "lines_count": 34,
+      "rows": [
+        [
+          "KEYEXECUTIONPRIORITIES"
+        ],
+        [
+          "01",
+          "80",
+          "02",
+          "03"
+        ],
+        [
+          "STRENGTHEN&EXPANDTHE",
+          "STRENGTHENRISK",
+          "STRENGTHENDIGITAL&AI"
+        ],
+        [
+          "CUSTOMERECOSYSTEM",
+          "MANAGEMENTCAPABILITIES",
+          "CAPABILITIES"
+        ],
+        [
+          "solutions across theOcBecosystem",
+          "StrengthenOCB'sadvisoryrole through",
+          "ImplementBasel llandCircular14/2025",
+          "aheadoftheregulatorytimelinesetbythe",
+          "·Apply dataandAl to decision-making"
+        ],
+        [
+          "SBV"
+        ],
+        [
+          "tailoredsolutionpackages",
+          "Advance Transaction Banking through",
+          "EWSmodels",
+          "Enhanceearlyriskidentificationthrough",
+          "customerjourneys",
+          "·EmbedAlacrosstheoperatingmodel and"
+        ],
+        [
+          "·Increaseproductusageand customer",
+          "lifetimevaluebybuildingdeeper andmore",
+          "andcustomersolutions",
+          "·Expandtheecosystemofdigitalproducts"
+        ],
+        [
+          "comprehensiverelationships"
+        ],
+        [
+          "LIVE"
+        ],
+        [
+          "OCB",
+          "Mr.DUONG DUC HUNG"
+        ],
+        [
+          "PERF0RMANCEANN0UNCEMENT 9M2026",
+          "ChiefExecutiveOfficer"
+        ],
+        [
+          "Nguoncap dirlieu truyenphat"
+        ]
+      ],
+      "raw_text_lines": [
+        "KEYEXECUTIONPRIORITIES",
+        "80",
+        "01",
+        "02",
+        "03",
+        "STRENGTHEN&EXPANDTHE",
+        "STRENGTHENRISK",
+        "STRENGTHENDIGITAL&AI",
+        "CUSTOMERECOSYSTEM",
+        "MANAGEMENTCAPABILITIES",
+        "CAPABILITIES",
+        "StrengthenOCB'sadvisoryrole through",
+        "ImplementBasel llandCircular14/2025",
+        "·Apply dataandAl to decision-making",
+        "solutions across theOcBecosystem",
+        "SBV",
+        "aheadoftheregulatorytimelinesetbythe",
+        "Enhanceearlyriskidentificationthrough",
+        "·EmbedAlacrosstheoperatingmodel and",
+        "tailoredsolutionpackages",
+        "Advance Transaction Banking through",
+        "EWSmodels",
+        "customerjourneys",
+        "·Increaseproductusageand customer",
+        "andcustomersolutions",
+        "·Expandtheecosystemofdigitalproducts",
+        "comprehensiverelationships",
+        "lifetimevaluebybuildingdeeper andmore",
+        "LIVE",
+        "OCB",
+        "Mr.DUONG DUC HUNG",
+        "PERF0RMANCEANN0UNCEMENT 9M2026",
+        "ChiefExecutiveOfficer",
+        "Nguoncap dirlieu truyenphat"
+      ]
+    }
+  ]
+}

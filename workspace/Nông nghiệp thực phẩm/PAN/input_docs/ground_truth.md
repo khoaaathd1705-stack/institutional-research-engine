@@ -1,0 +1,167 @@
+# DỮ LIỆU SỐ LIỆU CHUẨN TỪ SLIDES (GROUND TRUTH BENCHMARK DATA)
+* **Mã chứng khoán**: PAN
+* **Cuộc họp / Kỳ báo cáo**: PAN Group 9M2026 Analyst Meeting (9M2026)
+* **Tài liệu nguồn**: `slides` (8 slide trình chiếu chính thức)
+* **Phương pháp trích xuất**: Automated Ground Truth Extraction Engine (PyMuPDF Native Text + RapidOCR Fallback)
+* **Nguyên tắc đối soát**: 100% dữ liệu cứng lấy trực tiếp từ bản trình chiếu slide chính thức.
+
+---
+
+## 1. TỔNG HỢP NỘI DUNG & SỐ LIỆU TỪNG SLIDE (SLIDE-BY-SLIDE DETAILS)
+
+### Slide 01: 3Q2026 Earnings Presentation
+*Ảnh slide: `slides/slide_01.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+1. TONG QUAN KQKD HOP NHAT
+Ket quakinh doanh cua Tap doan PAN
+Chi tiéu | Q3/2026 | Q3/2025 | %yoy | 9T/2026 | 9T/2025 | %yoy
+Doanh thu thuan | 4.057,6 | 5.138,1 | -21,03% | 11.438,2 | 13.284,8 | -13,90%
+Loi nhuan truoc thue | 340,8 | 304,9 | 11,77% | 1.483,8 | 848,3 | 74,91%
+Loi nhuan sau thue | 335,7 | 266,4 | 26,01% | 1.363,5 | 724,3 | 88,25%
+LNST ve CD Cong ty me | 195,8 | 156,2 | 25,35% | 963,1 | 402,9 | 139,04%
+Doanh thu thuan Q3 nam 2026 dat 4.057,6 ty d6ng [-21,03% YoY), phan anh su sut giam tu BBC va mot s6 CTTV.
+Luy ke 9T2026 doanh thu dat 11.438,2 ty. giam 13,9%.
+LNTT va LNST tang truong manh c6 bao gom lgi nhuan bat thuong. Loai tru yeu to bat thuong, lqi nhuan cot loi
+van tang truong: LNTT 1.002 ty I+18,1%), LNST c6 dong cong ty me 481 ty I+19,4%] so cung ky.
+```
+
+### Slide 02: Co cau doanh thu theo tung linh vuc kinh doanh
+*Ảnh slide: `slides/slide_02.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+1. TONG QUAN KQKD HOP NHAT
+Co cau doanh thu theo tung linh vuc kinh doanh
+Don vi: Ty dong
+Q3/2026 | 1017.400 | 2761.400 | 288.200
+Q3/2025 | 1232.600 | 3176.400 | 733.700
+9T/2026 | 3988.900 | 6229.400 | 1240.100
+9T/2025 | 4179.00 | 7384.500 | 1735.500
+2000.00 | 4000.00 | 6000.00 | 8000.00 | 10000.00 | 12000.00 | 14000.00
+Nong nghiep | Thuy san | Thyrc pham d6ng g6i
+Doanh thu thuan theo tung linh vuc kinh doanh (don vi: ty VND)
+Doanh thu thuan | Q3/2026 | Q3/2025 | %yoy | 9T/2026 | 9T/2025 | %yoy
+Nong nghiep | 1.017,4 | 1.232,6 | -17,46% | 3.988,9 | 4.179,0 | -4,55%
+Thuy san | 2.761,4 | 3.176,4 | -13,07% | 6.229,4 | 7.384,5 | -15,64%
+Thuc pham dong goi | 288,2 | 733,7 | -60,72% | 1.240,1 | 1.735,5 | -28,55%
+Khac(Holding & Dau tu) | 0,0 | 0,1
+Dieu chinh hop nhat | (9,5] | [4,5] | [20,3] | [14,2]
+Doanh thu thuan hop nhat | 4.057,6 | 5.138,1 | -21,03% | 11.438,2 | 13.284,8 | -13,90%
+```
+
+### Slide 03: 1. Mang Giong cay trong va Gao
+*Ảnh slide: `slides/slide_03.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+KQKDLINHVUCNONGNGHIEP
+1. Mang Giong cay trong va Gao
+Don vi tinh Ity dong) | Q3/2026 | Q3/2025 | %yoy | 9T/2026 | 9T/2025 | %yoy
+Doanh thu thuan | 483,5 | 492,7 | -1,9% | 1.346,9 | 1.528,9 | -11,9%
+Lgi nhuan truoc thue | 15.0 | 29.9 | -49,8% | 119.7 | 152,0 | -21,3%
+Lqi nhuan sau thue | 14,5 | 27,5 | -47,3% | 99,4 | 128,6 | -22,7%
+Gia lua gao co su phuc hoi nhe, tuy nhien chua kip thoi co tac dong lén nhu cau tiéu thu giong. Dien tich gieo trong
+giam truoc do cung la mot nguyen nhan tac dong len nhu cau tieu thy cua nong dan.
+Các chi phi quan ly, chi phi ban hang tang SVCK cung anh huong vao LN cua Vinaseed.
+```
+
+### Slide 04: 2. Mang Khu trung va Nong duoc
+*Ảnh slide: `slides/slide_04.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+KQKD LINH VUC NONG NGHIEP
+2. Mang Khu trung va Nong duoc
+Don vi tinh Ity dong) | Q3/2026 | Q3/2025 | %yoy | 9T/2026 | 9T/2025 | %yoy
+Doanh thu thuan | 504,9 | 710,5 | -28,9% | 2.559.8 | 2.576,1 | -0,6%
+Lqi nhuan truoc thue | 53.0 | 87.9 | -39,7% | 270,7 | 295.7 | -8,5%
+Lqi nhuan sau thue | 41,9 | 65,5 | -36,0% | 215,6 | 231,0 | -6,7%
+Do nhan dinh thi truong nua cuoi nam kh6 khan, Cong ty da tap trung tiéu thu som san pham trong vy mua dau
+nam. Trong 6 thang dau nam 2026 doanh thu nong dugc tang 11.2%, nho d6 du quy 3 giam doanh thu, luy ke 9
+thang van khong bi sut giam tuong duong so voi cung ky.
+Thi truong nghen cung cau khi gia va dau ra cua cac cay trong chinh bap benh khien nong dan thu hep dau tu, dai ly
+han che nhap hang. Cong ty chu dong khong m? rong ban dé kiem soat ton kho va rui ro cong no, dong thoi chuan
+bihangchovuDongXuan2026-2027.
+```
+
+### Slide 05: 1. Mang Tom xuat khau
+*Ảnh slide: `slides/slide_05.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+KQKDLINHVUCTHUYSAN
+1. Mang Tom xuat khau
+Don vi tinh Ity dong) | Q3/2026 | Q3/2025 | %yoy | 9T/2026 | 9T/2025 | %yoy
+Doanh thu thuan | 2533,6 | 2.983,6 | -15,1% | 5.599,6 | 6.850,5 | -18,3%
+Lqi nhuan truoc thue | 199.9 | 108,0 | 85,1% | 453,4 | 245,0 | 85,1%
+Loi nhuan sau thue | 199,5 | 111,9 | 78,3% | 452,4 | 251,2 | 80,1%
+FMC: Doanh thu thuan Q3 giam, tuy nhien LNTT va LNST tang manh. Nguyen nhan chu yéu toi tu quyet toan thu
+hoach tom tu nuoi vu 2/2026 dat hiéu qua cao, gop phan lam tang lgi nhuan dang ke.
+```
+
+### Slide 06: 2. Mang Ca tra xuat khau
+*Ảnh slide: `slides/slide_06.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+KQKDLINHVUCTHUYSAN
+2. Mang Ca tra xuat khau
+Don vi tinh Ity dong) | Q3/2026 | Q3/2025 | %yoy | 9T/2026 | 9T/2025 | %yoy
+Doanh thu thuan | 227,9 | 192,8 | 18,2% | 629,8 | 534,1 | 17,9%
+Lgi nhuan truoc thue | 49.7 | 48.4 | 2,7% | 134,0 | 140,3 | -4,5%
+Lqi nhuan sau thue | 44,1 | 40.7 | 8,4% | 117.9 | 124,1 | -5,0%
+ABT: ABT tiép tuc cho thay su m? rong ve quy m6 nhung gap ap luc ve chi phi. Doanh thu thuan tang truong 18,2%,
+:bun buon buet onw oo enyo uenyu !o1 !o1 uep 6uet buey ueq jyd !yo en A1 uenb jyd !yo 'buet uo^ e!6 ua!yu An1
+Openinnew window
+```
+
+### Slide 07: Mang Nuoc mam va Snack
+*Ảnh slide: `slides/slide_07.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+KQKDLINHVUCTHUCPHAMDONGGOI
+Mang Nuoc mam va Snack
+Nuocmam584NhaTrang | Snack Lafooco
+(ty dong) | Donvitinh | Q3/2026Q3/2025 | %yoy | 9T/20269T/2025 | %yoy | (tydong) | Donvitinh | Q3/2026Q3/2025 | %yoy | 9T/20269T/2025 | %yoy
+Doanh thu thuan | 82,7 | 88.5 | -6,6% | 269,0 | 235,2 | 14,4% | Doanh thu thuan | 190.9 | 127,0 | 50,3% | 500,3 | 337.4 | 48,3%
+Lgi nhuan truoc thue | 10.6 | 12,2 | -13,1% | 37.1 | 31,0 | 19,7% | Lgi nhuan truoc thue | 10.5 | 9.7 | 8,2% | 26.0 | 30,2 | -13,9%
+Lgi nhuan sau thue | 8.5 | 9.9 | -14,1% | 29,7 | 24,9 | 19,3% | Lgi nhuan sau thue | 8.3 | 7,6 | 9,2% | 20,4 | 23,9 -14,6%
+584NT:Doanh thu va loinhuanQ3giam sovoi cung ky.Tuy | LAF: Doanh thu tang manh nhung lgi nhuan chua co muc tang
+nhien luy ke 9T van tang truong tot. | tuong ung do Cong ty day manh san lugng xuat khau cac mat
+hang dieu va nong san che bien. Ngoai ra c6 them tac dong tu
+gia von hang ban, chi phi lai vay va cac chi phi khac tang cao
+hon so voi cung ky nam truoc.
+```
+
+### Slide 08: Tien do hoan thanh ke hoach nam cua Tap doan
+*Ảnh slide: `slides/slide_08.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+TIENDOHOANTHANHKETQUAKINHDOANH
+Tien do hoan thanh ke hoach nam cua Tap doan
+(Ty VND) | 9T/2026 | 9T/2025 | %yoy | KHKD | % hoan thanh
+Doanh thu thuan | 11.438,2 | 13.284,8 | -13,90% | 18.000 | 63,5%
+Lgi nhuan truoc thue | 1.483,8 | 848,3 | 74,91% | 2.012 | 73,7%
+Loi nhuan sau thue | 1.363,5 | 724,3 | 88,25% | 1.780 | 76,6%
+LNSTveCDcongtyme | 963,1 | 402,9 | 139,04% | 1.250 | 77,0%
+Quy 3 Tap doan hoan thanh 63,5% ke hoach doanh thu va hoan thanh 77% lqi nhuan sau thue ke hoach dugc phe duyet boi HDCD.
+Loai tru yeu t6 bat thuong. lgi nhuan cot loi: LNTT 1.002 ty (+18,1%), LNST c6 dong cong ty me 481 ty (+19,4%] so cung ky.
+Trien vong cac Quy toi:
+Tap doan tiep tuc ky vong sy hoi phuc tu linh vuc thuy san, dac biet la mang tom. Quy 3 da cho thay dau hieu phuc hoi tot, dac biet la
+hiéu qua tu các san pham ty nuoi trong dong gop lon vao KQKD.
+Linh vuc nong nghiep chiu anh huong lon tu thoi tiet, giam dien tich gieo trong, dong thoi cac CTTV cung chu dong khong m? rong kinh
+buew oeo eno wg!p oes ueop !eib ei as weu lono Anb oeo buos (y ueop de1 't0 ouo ouy ugt iq uenyo en ou iu jun uenb gp so buoun yueop
+kinh doanh chinh. Day cung la mot dong lyc de cac mang kinh doanh h6i phuc va tang truong lai.
+```
+---
+
+## 2. NGUYÊN TẮC ÁP DỤNG KHI BIÊN TẬP BÁO CÁO (ANALYST REPORT AUDIT PROTOCOL)
+1. **Chân Lý Chuẩn (Single Source of Truth)**: Mọi con số trong Transcript và Analyst Report **BẮT BUỘC** phải khớp với số liệu in trên các slide ở trên.
+2. **Hiệu chỉnh sai lệch âm thanh**:
+   - Khi diễn giả làm tròn số, báo cáo bắt buộc lấy số chính xác trên Slide.
+   - Sửa lỗi nghe nhầm thuật ngữ hoặc viết tắt của mô hình AI nhận diện giọng nói.
+3. **Cách ly nguồn dữ liệu (Source Isolation)**: Báo cáo chỉ sử dụng dữ liệu từ tài liệu slide này, không bổ sung các số liệu từ các tài liệu kỳ cũ hoặc sự kiện khác.

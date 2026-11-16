@@ -1,0 +1,441 @@
+{
+  "ticker": "HDSAISON",
+  "period": "3Q26 & 9M26",
+  "meeting_name": "HD SAISON Financial Highlights 3Q2026",
+  "source_file": "HDSAISON_Slides.pptx",
+  "total_slides": 2,
+  "slides": [
+    {
+      "slide_num": 1,
+      "image_file": "slide_01.png",
+      "lines_count": 71,
+      "rows": [
+        [
+          "HDBank"
+        ],
+        [
+          "DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights"
+        ],
+        [
+          "HDSAIsoN Ghi Nhan Tang Truong Tin Dung Va Giai Ngan Manh Me"
+        ],
+        [
+          "HDSAIsoNDeliveredStrongLoanGrowthandAcceleratingDisbursements"
+        ],
+        [
+          "Dundchovay|LoanBook",
+          "Tong giaingan|Total Disbursements"
+        ],
+        [
+          "Don vi: ty VND | Unit : VNDbn",
+          "Don vi: ty VND | Unit : VNDbn",
+          "+29.2%"
+        ],
+        [
+          "26.452",
+          "26.986",
+          "27.689",
+          "32.204",
+          "28.751"
+        ],
+        [
+          "22.070",
+          "20.364",
+          "24.448",
+          "22.251"
+        ],
+        [
+          "13.376",
+          "16.839",
+          "16.086",
+          "18.212"
+        ],
+        [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "3Q2026",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "9M2025",
+          "9M2026"
+        ],
+        [
+          "Cocau du ngchovay(3Q2026)|Breakdownof Loan(3Q2026)",
+          "NIM&Chiphivon|NIM&Funding Cost"
+        ],
+        [
+          "Don vi: % | Unit : %",
+          "Don vi: % | Unit : %"
+        ],
+        [
+          "13%",
+          "Xe may| Motorbike",
+          "26,8%",
+          "30,2%",
+          "29,0%",
+          "30,6%",
+          "27,2%",
+          "26,9%"
+        ],
+        [
+          "35%",
+          "Dienmay|Electronicdevices"
+        ],
+        [
+          "18%",
+          "= Giai ngan tryc tiep|Direct disbursement"
+        ],
+        [
+          "The tin dung va khac| Credit cards & others",
+          "6,5%",
+          "6,0%",
+          "8,1%",
+          "7,7%",
+          "6,1%",
+          "7,6%"
+        ],
+        [
+          "15%",
+          "19%",
+          "Nhu cau doi song| Living needs",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "3Q2026"
+        ],
+        [
+          "=NIM",
+          "Chi phi von |Funding cost"
+        ],
+        [
+          "Nguon: Do lieu cong ty | Source: Company Dota",
+          "EARNING PRESENTATION | 25"
+        ]
+      ],
+      "raw_text_lines": [
+        "HDBank",
+        "DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights",
+        "HDSAIsoN Ghi Nhan Tang Truong Tin Dung Va Giai Ngan Manh Me",
+        "HDSAIsoNDeliveredStrongLoanGrowthandAcceleratingDisbursements",
+        "Tong giaingan|Total Disbursements",
+        "Dundchovay|LoanBook",
+        "Don vi: ty VND | Unit : VNDbn",
+        "Don vi: ty VND | Unit : VNDbn",
+        "+29.2%",
+        "32.204",
+        "26.452",
+        "28.751",
+        "27.689",
+        "26.986",
+        "22.070",
+        "24.448",
+        "22.251",
+        "20.364",
+        "18.212",
+        "16.086",
+        "16.839",
+        "13.376",
+        "9M2025",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "9M2026",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "3Q2026",
+        "NIM&Chiphivon|NIM&Funding Cost",
+        "Cocau du ngchovay(3Q2026)|Breakdownof Loan(3Q2026)",
+        "Don vi: % | Unit : %",
+        "Don vi: % | Unit : %",
+        "30,6%",
+        "30,2%",
+        "13%",
+        "Xe may| Motorbike",
+        "29,0%",
+        "27,2%",
+        "26,9%",
+        "26,8%",
+        "Dienmay|Electronicdevices",
+        "35%",
+        "18%",
+        "= Giai ngan tryc tiep|Direct disbursement",
+        "8,1%",
+        "7,7%",
+        "7,6%",
+        "6,5%",
+        "6,0%",
+        "6,1%",
+        "The tin dung va khac| Credit cards & others",
+        "Nhu cau doi song| Living needs",
+        "19%",
+        "15%",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2021",
+        "3Q2026",
+        "=NIM",
+        "Chi phi von |Funding cost",
+        "EARNING PRESENTATION | 25",
+        "Nguon: Do lieu cong ty | Source: Company Dota"
+      ],
+      "title": "HD SAISON: Tăng Trưởng Tín Dụng & Giải Ngân Mạnh Mẽ (Loan Book, Disbursements, NIM & Chi Phí Vốn)"
+    },
+    {
+      "slide_num": 2,
+      "image_file": "slide_02.png",
+      "lines_count": 93,
+      "rows": [
+        [
+          "HDBank"
+        ],
+        [
+          "DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights"
+        ],
+        [
+          "HD SAIsoN Duy Tri Hieu Qua Sinh Loi Ben Vung Nho Chat Luong Tai San Vung"
+        ],
+        [
+          "Manh"
+        ],
+        [
+          "HDSAisONMaintainedSustainableProfitabilityThrough HealthyAssetQuality"
+        ],
+        [
+          "Loinhuantruocthue|ProfitbeforeTax",
+          "HieuquasinhloiSustainableprofitability"
+        ],
+        [
+          "Don vi: ty VND |Unit : VNDbn",
+          "Don vi: % | Unit: %"
+        ],
+        [
+          "+8.7%"
+        ],
+        [
+          "1.152",
+          "1.214",
+          "1.390",
+          "1.184",
+          "23,1%",
+          "24,2%",
+          "23,7%",
+          "22,5%",
+          "21,4%"
+        ],
+        [
+          "1.001",
+          "1.089"
+        ],
+        [
+          "660",
+          "13,3%"
+        ],
+        [
+          "5,3%",
+          "5,7%",
+          "3,0%",
+          "5,2%",
+          "5,0%",
+          "4,8%"
+        ],
+        [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "9M2025",
+          "9M2026",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "3Q2026"
+        ],
+        [
+          "ROE",
+          "ROA"
+        ],
+        [
+          "Tong thunhap&TyléCIR|TOl&C/R",
+          "Chiphi tindung&Ty lénoxau|NPLratio&Credit cost"
+        ],
+        [
+          "Don vi: ty VND |Unit : VNDbn",
+          "Don vi: % | Unit: %"
+        ],
+        [
+          "44,0%",
+          "38,2%",
+          "39,0%",
+          "35,7%",
+          "37,2%",
+          "36,9%",
+          "15,7%",
+          "18,1%",
+          "17,9%",
+          "14,7%",
+          "16,3%"
+        ],
+        [
+          "33,1%"
+        ],
+        [
+          "11,8%"
+        ],
+        [
+          "4.682",
+          "5.701",
+          "5.959",
+          "6.663",
+          "6.936",
+          "5.169",
+          "6.155",
+          "7,3%",
+          "7,1%",
+          "7,6%",
+          "7,4%",
+          "6,9%",
+          "7,8%"
+        ],
+        [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "9M2025",
+          "9M2026",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "3Q2026"
+        ],
+        [
+          "Tong thu nhap | TOI",
+          "CIR",
+          "Chi phi tin dung | Credlit cost",
+          "Tyle ng xau|NPL"
+        ],
+        [
+          "Nguon: Do lieu cong ty | Source: Company Data",
+          "EARNING PRESENTATION | 26"
+        ]
+      ],
+      "raw_text_lines": [
+        "HDBank",
+        "DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights",
+        "HD SAIsoN Duy Tri Hieu Qua Sinh Loi Ben Vung Nho Chat Luong Tai San Vung",
+        "Manh",
+        "HDSAisONMaintainedSustainableProfitabilityThrough HealthyAssetQuality",
+        "HieuquasinhloiSustainableprofitability",
+        "Loinhuantruocthue|ProfitbeforeTax",
+        "Don vi: % | Unit: %",
+        "Don vi: ty VND |Unit : VNDbn",
+        "+8.7%",
+        "1.390",
+        "24,2%",
+        "23,7%",
+        "23,1%",
+        "22,5%",
+        "1.214",
+        "1.184",
+        "21,4%",
+        "1.152",
+        "1.001",
+        "1.089",
+        "13,3%",
+        "660",
+        "5,7%",
+        "5,3%",
+        "5,2%",
+        "5,0%",
+        "4,8%",
+        "3,0%",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "9M2025",
+        "2021",
+        "3Q2026",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "9M2026",
+        "ROE",
+        "ROA",
+        "Chiphi tindung&Ty lénoxau|NPLratio&Credit cost",
+        "Tong thunhap&TyléCIR|TOl&C/R",
+        "Don vi: % | Unit: %",
+        "Don vi: ty VND |Unit : VNDbn",
+        "44,0%",
+        "18,1%",
+        "17,9%",
+        "39,0%",
+        "38,2%",
+        "37,2%",
+        "16,3%",
+        "36,9%",
+        "35,7%",
+        "15,7%",
+        "14,7%",
+        "33,1%",
+        "11,8%",
+        "6.936",
+        "6.663",
+        "6.155",
+        "5.959",
+        "5.701",
+        "5.169",
+        "4.682",
+        "7,8%",
+        "7,6%",
+        "7,4%",
+        "7,3%",
+        "7,1%",
+        "6,9%",
+        "2023",
+        "2024",
+        "2025",
+        "2021",
+        "2022",
+        "3Q2026",
+        "9M2026",
+        "2021",
+        "2022",
+        "2024",
+        "2023",
+        "2025",
+        "9M2025",
+        "Tong thu nhap | TOI",
+        "CIR",
+        "Tyle ng xau|NPL",
+        "Chi phi tin dung | Credlit cost",
+        "EARNING PRESENTATION | 26",
+        "Nguon: Do lieu cong ty | Source: Company Data"
+      ],
+      "title": "HD SAISON: Hiệu Quả Sinh Lời Bền Vững & Chất Lượng Tài Sản (PBT, ROE, ROA, CIR, NPL & Credit Cost)"
+    }
+  ]
+}

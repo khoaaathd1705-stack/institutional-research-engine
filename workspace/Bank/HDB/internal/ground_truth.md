@@ -1,0 +1,666 @@
+# DỮ LIỆU SỐ LIỆU CHUẨN TỪ SLIDES (GROUND TRUTH BENCHMARK DATA) - HDBANK (HDB)
+* **Mã chứng khoán**: HDB (Ngân hàng TMCP Phát triển TP.HCM)
+* **Cuộc họp / Kỳ báo cáo**: HDBank Earnings Presentation / Analyst Meeting (3Q26 & 9M26)
+* **Tài liệu nguồn**: `HDB_Slides.pptx` (20 slide trình chiếu chính thức)
+* **Phương pháp trích xuất**: Automated Ground Truth Extraction Engine (RapidOCR + Coordinate Clustering)
+* **Quy chuẩn định dạng**: Chuẩn quốc tế (dấu chấm `.` thập phân, dấu phẩy `,` phân cách hàng ngàn; ký hiệu quý `3Q26`, `9M26`).
+* **Nguyên tắc đối soát**: 100% số liệu cứng lấy trực tiếp từ bản trình chiếu slide chính thức của Ban lãnh đạo HDBank.
+
+---
+
+## PHẦN I: BẢNG CHỈ TIÊU TÀI CHÍNH CỐT LÕI (EXECUTIVE SUMMARY BENCHMARK TABLES)
+
+### 1. Bảng cân đối kế toán, Tín dụng & Huy động vốn (Balance Sheet & Size)
+
+| Chỉ tiêu định lượng | Đơn vị | Thực hiện 2025A | Thực hiện 9M26 | Kế hoạch 2026F | Tăng trưởng 9M26 (YoY / YTD) | % Hoàn thành KH 2026F | Nguồn Slide |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Tổng tài sản (Total Assets)** | Nghìn tỷ đồng | 931.0 | 1,143.0 | 1,194.0 | +22.7% YTD / +46.2% YoY | 95.7% | Slide 1, 4, 12, 20 |
+| **Tiền gửi khách hàng TT1 (Total Deposits)** | Nghìn tỷ đồng | 648.0 | 837.0 | 822.0 | +29.1% YTD | **101.8% (Vượt KH)** | Slide 1, 12, 14, 15, 20 |
+| - Tiền gửi khách hàng cá nhân (Retail) | Nghìn tỷ đồng | 87.0 (2024) | 127.0 | - | +45.7% YTD | - | Slide 15 |
+| - Tiền gửi khách hàng doanh nghiệp (Corporate) | Nghìn tỷ đồng | 431.0 (2024) | 518.0 | - | +19.9% YTD | - | Slide 15 |
+| **Dư nợ tín dụng hợp nhất (Total Credit)** | Nghìn tỷ đồng | 588.0 | 756.0 | 805.0 | +28.6% YTD (Toàn ngành ~11.6%) | 93.9% | Slide 1, 12, 20 |
+| - Cho vay khách hàng cá nhân (Retail) | Nghìn tỷ đồng | 146.0 (2024) | 200.0 | - | +37.6% YTD | - | Slide 15, 16 |
+| - Cho vay khách hàng doanh nghiệp (Corporate) | Nghìn tỷ đồng | 422.0 (2024) | 570.0 | - | +28.1% YTD | - | Slide 15 |
+| - Tài trợ chuỗi giá trị (Value Chain Loans) | Nghìn tỷ đồng | - | 45.8 | - | +18.6% YoY (>8.1k khách hàng) | - | Slide 7 |
+| - Dư nợ tín dụng xanh (Green Credit) | Nghìn tỷ đồng | - | 6.1 | - | Lũy kế giải ngân >42,000 tỷ | - | Slide 7, 9 |
+
+### 2. Kết quả hoạt động kinh doanh & Khả năng sinh lời (P&L & Profitability)
+
+| Chỉ tiêu định lượng | Đơn vị | Thực hiện 2025A | Thực hiện 9M26 | Kế hoạch 2026F | Tăng trưởng 9M26 (YoY) | % Hoàn thành KH 2026F | Nguồn Slide |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Lợi nhuận trước thuế (LNTT / PBT)** | Tỷ đồng | 21,300.0 | 18,379.0 | 30,100.0 | +24.2% YoY (3Q26: ~5,200 tỷ, +9.3% YoY) | 61.1% | Slide 1, 4, 12, 13, 17, 20 |
+| **Tỷ suất sinh lời trên VCSH (ROAE)** | % | 25.3% | 22.8% | > 25.0% | Dẫn đầu Top 10 ngân hàng lớn | Đạt cận mục tiêu | Slide 1, 12, 13, 17, 20 |
+| **Tỷ suất sinh lời trên tài sản (ROAA)** | % | 2.1% | 1.9% | > 2.0% | Nằm trong nhóm cao nhất ngành | Đạt cận mục tiêu | Slide 13, 17, 20 |
+| **Tỷ lệ Chi phí / Thu nhập (CIR)** | % | 25.7% | 24.9% | - | -0.8% sv 2025 (Tối ưu top đầu ngành) | Tối ưu bền vững | Slide 1, 13, 17 |
+| **Biên lãi thuần hợp nhất (NIM)** | % | 5.1% | 4.8% | - | 3Q26 đạt 3.9% (áp lực chi phí vốn ngắn hạn) | Kỳ vọng phục hồi 4Q26 | Slide 13, 17 |
+| **Lợi suất tài sản sinh lãi (Yield on IEA)** | % | 9.9% | 9.5% | - | - | - | Slide 17 |
+| **Chi phí vốn (Cost of Funds - COF)** | % | 4.6% | 4.7% | - | +0.1% do cạnh tranh huy động | - | Slide 17 |
+
+### 3. Chất lượng tài sản, Quản trị rủi ro & An toàn vốn (Asset Quality & Capital Adequacy)
+
+| Chỉ tiêu định lượng | Đơn vị | 2024 | 2025 | 9M26 (30/09/2026) | Quy định / Kế hoạch 2026F | Ghi chú & Đánh giá | Nguồn Slide |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Tỷ lệ nợ xấu hợp nhất (NPL - TT 31)** | % | 1.48% | 1.66% | 2.55% | < 2.00% | Phản ánh xu hướng chung toàn ngành | Slide 1, 12, 18, 20 |
+| **Tỷ lệ nợ xấu ngân hàng mẹ (Parent NPL)**| % | 1.33% | 1.05% | 1.95% | - | Kiểm soát tốt ở mức an toàn | Slide 18 |
+| **Tỷ lệ bao phủ nợ xấu hợp nhất (LLR)** | % | 65.8% | 70.4% | 68.7% | - | Bộ đệm dự phòng vững vàng | Slide 18 |
+| **Tỷ lệ bao phủ tài sản đảm bảo** | % | 201.6% | 258.7% | 189.0% | - | Tài sản đảm bảo thanh khoản cao | Slide 18 |
+| **Số dư quỹ dự phòng rủi ro** | Tỷ đồng | 5,879.0 | 7,479.0 | 5,797.0 | - | DP chung: 3,301 tỷ; DP cụ thể: 2,496 tỷ | Slide 18 |
+| **Chi phí tín dụng (Credit Cost 9M)** | Tỷ đồng | 3,101.0 | 4,054.0 | 5,413.0 | - | Tỷ lệ chi phí tín dụng ~1.48% | Slide 18 |
+| **Hệ số an toàn vốn hợp nhất (CAR Basel II)** | % | 14.0% | 14.4% | 13.9% | > 8.00% | Vốn cấp 1: 8.6%; Vốn cấp 2: 5.3% (Dự kiến Basel III từ 2027) | Slide 1, 12, 14, 19 |
+| **Tỷ lệ cấp tín dụng / Huy động (LDR TT 22)**| % | 68.5% | 67.0% | 71.5% | < 85.00% | Riêng lẻ: 68.2%, thanh khoản dồi dào | Slide 1, 19 |
+| **Tỷ lệ vốn ngắn hạn cho vay trung-dài hạn** | % | 22.5% | 20.1% | 17.2% | < 30.00% | Tuân thủ an toàn thanh khoản chặt chẽ | Slide 19 |
+| **Chỉ số thanh khoản NSFR & LCR** | % | > 100% | > 100% | > 100% | > 100% | Vượt xa ngưỡng chuẩn quốc tế | Slide 19 |
+
+### 4. Đóng góp từ các Đơn vị thành viên trong Hệ sinh thái (Ecosystem Subsidiaries Breakdown)
+
+| Đơn vị thành viên | Lĩnh vực hoạt động | Tỷ lệ sở hữu của HDBank | Kết quả kinh doanh 9M26 nổi bật | Nguồn Slide |
+| :--- | :--- | :--- | :--- | :--- |
+| **HD SAISON** | Tài chính tiêu dùng (Consumer Finance) | 50.0% vốn điều lệ, 51.0% quyền biểu quyết | LNTT 9M26 vượt 1,184 tỷ (+8.7% YoY) / 1,390 tỷ; NIM 26.9%; ROE 21.4%; Mạng lưới POS số 1 phục vụ >18 triệu KH | Slide 1, 4 |
+| **HD Securities (HDS)** | Chứng khoán & Ngân hàng đầu tư (Securities & IB) | 90.0% cổ phần (nâng từ 30% trước IPO) | LNTT 9M26 đạt 2,241 tỷ (+265% YoY); ROE dẫn đầu thị trường 26.1%; Top 3 thị phần phát hành TPDN | Slide 1, 4 |
+| **Vikki Digital Bank** | Ngân hàng số thế hệ mới (Digital Bank) | 100.0% vốn điều lệ (tiếp nhận DongA Bank) | >9 triệu KH (>5.6 triệu KH hoạt động); 3.7 triệu lượt tải app; Giải thưởng Thẻ VikkiONE Connect tại AEA 2026 | Slide 1, 4, 5 |
+| **SkyJoy** | Nền tảng khách hàng thân thiết tích hợp | Thành viên hệ sinh thái HDBank | >18 triệu thành viên, kết nối toàn bộ hệ sinh thái dịch vụ tài chính, bán lẻ, hàng không | Slide 4, 5 |
+
+---
+
+## PHẦN II: TỔNG HỢP NỘI DUNG & SỐ LIỆU TỪNG SLIDE (SLIDE-BY-SLIDE DETAILS)
+
+### Slide 01: HDBank: Tổng quan về HDBank & Hệ sinh thái Toàn diện (Key Statistics 3Q26)
+*Ảnh slide: `slides/slide_01.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+TongquanveHDBank|About HDBank
+NganHangHangDauTaiVietNamVoiHeSinhThaiToanDien
+ATopPerformerinVietnamBankingSectorWithanUnrivalledEcosystem
+MotS6 Chi TieuTaiChinhN6i Bat(Q3/2026) | HeSinhThai ToanDien
+Key Statistics As Of 3Q2026 | UnrivalledEcosystem
+Don vi: Nghin ty VND |Unit: VND tn
+HDBank
+1.143 | 837 | 756
+Tong tai san | Tien gui TT1 | Dung tin dung
+Totalassets | +22.7%YTD | Total deposits | +29.1%YTD | Total credit | +28.6%YTD | Tai ChinhTieu Dung | Chung Khoan | Ngan Hang So
+Consumer Finance | Securities | DigitalBank
+51%/7) | HDSAISON | %06 | HDSecurities | 100%(2) | ikki
+18,4 | 22,8% | 24,9%
+LNTT|PBT | ROE | Chi phi/Thu nhap
++24.2%YoY | ROE | Cost toIncomeRatio
+HDX | HDCapita!
+Insurance | Trusted Partner
+71,5% | 2,55% | 13,9% | Kieuhoi | Chothuetaichinh
+LDR(Cir.22) | Dung/Huy dong | NPL(Cir.31) | Tylengxau (IT31) | CAR(Basell) | Tyle CAR(Basell) | Remittances | Leasing
+Nguon: Do lieu cong ty S6 lieu Quy 3/2026 hop nhat trudc kiem toan | HDBank sdhOu50% vnchusahOu taiHDSAISONvi519%quyen bieuquyet | Source: company dato. Consolidoted 3Q2026 financiols are pre-Gudited
+(2) | Cong dudi hinh thuic cong ty TNHH mot thanh vien, voi 100% vin dieu le thuoc so hOu cuia HDBank. | operates Gs 0 singlememiber Einmited iobility bank with 100% chorter copital heid by | (2）Following the mondatory transfer,VikkiDtigitalBank (rebronded fromDongA Bank) | EARNING PRESENTATION | 4
+HDBonk
+```
+
+### Slide 02: Ba Thập Kỷ Tăng Trưởng Cao và Bền Vững (1989 - 3Q26)
+*Ảnh slide: `slides/slide_02.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+Tong quanveHDBank|About HDBank
+Ba ThapKy Tang Truong CaoVa BenVung
+ThreeDecadesofImpressiveGrowth
+NhaDauTuNuocNgoai | 2013:Mualai 100%Societe GeneraleViet | Finance(SGVF)tur SocieteGenerale va doiten | 2022: Dugc lya chon tham gia Chuang trinh Tai co | cu He thong Nganhang cua NHNN | Selected to
+Internationalinvestors | thanh HDFinance|Acquired 100% of Societe | participateinBanking systemrestructuringprogramof
+Generale Viet Finance(SGVF) from Societe | SBV
+International | Finance Corporation | KFW DEG | Generale and re-branded as HDFinance | 2013:Sap nhap voi Ngan hang Dai A -mot | digital app | ·2024: Ra mat ung dung NH s6 Vikki | Launched Vikki
+RLDBANK | ngan hang khu vyc Dong Nam Bo | Merged | 2025: Hoan tat tiep nhan Ngan hang Dong Ava d6i
+with Dai A Bank-a boutique bank in Southeast | ten thanh Nganhang SoViki| Completed the
+region | transfer of Dong A Bank and re | edasVikkiBank
+BaillieGifford" | INVISTMENTS | LEAPFROG | 2015:Chuyen nhuong 49%cophan HD | Finance cho Credlit Saison va doi ten thanh HD
+SAISON|Transfer 49%of HD Finance to Credit
+Saison and rebranded as HD SA/SON | 1.143
+and listed on HOSE | 2017-2018:IPOvaniemyet trenHOSE|IPO | 931
+IPO&Niem yet tren HOSE | 697
+IPO&Listing on HOSE | 602
+Don vi:Nghin ty VND | Strategic Partner | Doi Tac Chien Luoc | 416
+Unit:VND tn | M&A | CREDIT | HDSAISON | HOSE | 319 | 375
+DAIABANK | SENETAELE | 216 | 229
+86 | 100 | 106 | 150 | 189
+34 | 45 | 53
+1989 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 3Q2026
+Tong taisandat1,143nghin tyVND （tang>10lanketunam2015)
+VND1,143tnintotalassets(>10xincrease.since2015)
+Nguon: Doflieu cong ty | Source: Company Doto | EARNING PRESENTATION | 5
+```
+
+### Slide 03: Thương Hiệu Được Vinh Danh Với Sự Công Nhận Quốc Tế
+*Ảnh slide: `slides/slide_03.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+TongquanveHDBank|AboutHDBank
+ThuongHieuDuocVinhDanhVoi SyCongNhanQuocTe
+Award-WinningBrandwithInternationalRecognition
+Cacgiai thuonguy tintrongnuocvaquoct | Cacgiai thuongdanhgiatirChinhphuvaNganhangNhanuoc
+Recognized by localand internationalorganizations | Prestigiousawards from theGovernment andSBV
+ChuyenD6i S6Xuat | Thuong Hieu Quoc | Nganhang tai tro | Top coanh nghiep
+Sac do NHNN | Gia do Thi tuang | chuai cung Uing | Ion nhait Dong Nam A
+trao tang | trao tang | tot nhat | Top Fortune's Southeost
+BestDigital | Transformation | dwairded by Prume | Natioriul Brand | Best Supply Chain | Fnance Bank | Asicn 500
+owaried bySay | Minister | FORTUNE
+VuTNAMAwRns2026
+Quan tri Cong ty | Cac.Cong Ty Niem | Ngani hang Banle | Top cac cong ty
+Tot nhat | YetHangDau | Noi dia Tot nhat | niem yet tot nhat
+Govennance | Best Corporate | Companies | Top listed | Retoil Bonk | Best Domestic | company | Top-7publicy listed
+Chu tichnudc traoHuan chudng Laodongvaocacnam2013,2015,2017va
+asean | Forbes | ANKHETINANCE | 50 | 2020
+RDS2025 | AwGrded the LaborMedal by the President in2013,2015.2017 and2020
+BaNguyenThi Phudng Thao-C6dong chienluocPho Chu tich Thuong truc-
+HDBank la ngan hang duy nhat | Ngan hang Banle Tot nhat | dugc Chu tich nuoc trao tang danh hieu Anh hung Lao dong vao nam 2025. | Madam Nguyen Thi Phtuong Thao -The strategic shareholder andPermanent vice chainwoman
+Tot Nhat Chau A do HR Asia binh | EUROMONEY | ChauA | Asio's Best Retoi Bonk | received theLabour heroinemedal from thePresident in2025
+chon trong 9 nam lien tiep | HDBank is the only bank recognizederthe | AWRDIS2O16 | Vietnam's Best Bonk for SMEs | Ngan hang SME Tot nhat | Thu tuong Chinh phu tang Co thi dua cho HDBank vao cac nam 2016 va 2020
+Best Compomies to Work for (n Asio award | RCSTRETAILAMK | Ngan hang Banle Tot nhat | AwardedtheGovernment EmulationFlagby thePrimeMinisterin2016and2020
+by HR Asio for nine consecutive yeors | Vletnom's Best Retal Bank | ThongdocNgainhangNhanuoctrao Cothiduanganhnganhangnam2016
+Nguon: Da lieu cong ty | Source: Company Data | Awardecl theErnulartion flag by theGovernorof theState Bank in 2016 | EARNING PRESENTATION|6
+```
+
+### Slide 04: Cập Nhật KQKD 9M26 Của HDBank và Các Đơn Vị Thành Viên (HDB, HD SAISON, HDS, Vikki)
+*Ảnh slide: `slides/slide_04.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+CapNhatHoatDongKinhDoanhQuy3/2026|BusinessandOperationUpdates
+TongQuanKQKD9T2026cuaHDBankvaCacDonVi ThanhVien
+KeyHighlightsof9M2026BusinessResults
+NganHangTMCP|CommercialBank | Tai ChinhTieuDung|ConsumerFinance
+VND1, 143 tn in total assets, up 46.2% YoY | Tong tai san:1.143 nghin ty VND (+46.2% svck) | Bank | HD | HD | LNTT vuot 1.184 ty VND (+8.7% svck)
+SAISON | PBT exceeded VND1,184 bn, up 8.7% Yo
+22.8% | LNTT: 18,4 nghin ty VND (+24.2% svck), ROE: | -NIM dat 26,9%; ROE: 21,4%
+PBT of VND18.4 tn, up 24.2% YoY; ROE of 22.8% | HDBank | NIM reached 26.9%; ROE reached 20.2%
+Ty le CAR dat 13,9%,cao top dau toan nganh | S61ve mang luoi POS,phuc vu>18 trieu KH | No. 7 POS network serving >18 million customers
+Market-leading CAR of 13.9% | Motnen tangchomoi nhu cau
+taichinhngan hang
+One platform  allfinancial needs
+>9 trieuKH,vcihon5,6 trieuKH dang hoat dong
+>9millioncustormers,with>5.6million activecustome | >35trieuKhachhang|millioncustomers | S63ve thi phan phat hanh trai phieu (9T2026)
+3,7 trieuluot tai ung dung tinh den30/09/2026 | 50.000+diemgiaodich|touchpoints | ~600chinhanh|branches | Top 3 market share of bond issuance (in 9M2026)
+3.7millionmobileappdownloadsasof30/09/2026 | LNTT: 2.241 ty VND (+265% svck)
+"San pham trai nghiem khach hang xuat säc nhat | PBT of VND2,239 bn (265% YoY)
+Viet Nam cho TheVikkiONE Connect tai AEA 2026 | Viki | ROE dat 26,1% dan dau thi truong
+VietnamProductExperienceof theYear-Banking | No. 7 ROE 26.1%
+awardforVikkiONE Connect card at AEA2026
+NganHangSo|DigitalBank | Chungkhoan&IB|Securities&IB
+..dugc ket niquaSkyJoy - nen tang tichhop tich diem/thung voi>18 trieu thanh vien tren toan he sinhth Sky
+connected bySkyloy-anintegratedloyalty/rewardsplatformwith>18millionmembers across the ecosystem | Joy
+Baohiem | BatDongSan | DVquanly taisan | Chung khoan/IB | Giaoduc/Yté
+Insurance | Real Estates | WealthServices | Securities/B | Education/Healthcare
+Nguon: Du lieu cong ty | Source: Company Data | EARNING PRESENTATION|8
+```
+
+### Slide 05: Mang Đến Trải Nghiệm Số Vượt Trội (Vikki Digital Bank & SkyJoy)
+*Ảnh slide: `slides/slide_05.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+CapNhatHoatDongKinhDoanhQuy3/2026|BusinessandOperationUpdates
+MangDenTraiNghiemSoVugtTroi
+Provideexceptionaldigitalcustomerexperience
+Tudonghoahanhtrinhkhachhang | eKYCvadinhdanhkhachhang | Chuyendoi s6&mdrong dophu
+Roboticautomationof customerjourney | eKYC&customeridentification technology | Digitaltransformation&ruralreach
++34% | 98% | phut|minutes | ~73%
+Tang truong GDkenh soKHCN | GD KHCN thuc hien qua kenh s6 | M TK (so voi 30p truoc day) | New customers acquired through | KH moi duoc thuhut tui kenh s
+Increase in digitalretail transaction | RetailTransactions via digital channels | for account opening (vs. 30 min before) | digital channel
+Motaikhoandanentang|Cross-platformaccount opening | Bay truc, tra tien sau-tai trove may bay|Fly now,Pay later airplane ticket
+√The tindunglienket thuonghieu|Co-branded credit cards | Baohiem du lich|Travel insurance
+Sky | nor | ..dugcketnoiquaSkyJoy-nentang tichhoptichdiem/thudngvoi>18trieuthanhvientrentoanhesinhthai
+Nguon: Du lieu cong ty | Source: Company Data | EARNING PRESENTATION | 9
+```
+
+### Slide 06: Các Giải Pháp Số Hóa Khách Hàng Doanh Nghiệp (MediPay, EduPay)
+*Ảnh slide: `slides/slide_06.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+CapNhatHoatDongKinhDoanhQuy3/2026|BusinessandOperationUpdates
+CacGiaiPhapSoHoaHanh Trinh Trai NghiemKhachHangDoanh Nghiep
+Successfulinnovationsandpartnershipsacrossthecorporatebankingsegment
+MediPay | EduPay
+MediPay | MediPay la giaiphapy t thongminh do HDBank trienkhai | EduPay | EduPay la giaiphap timkiem va thanh toanhoc phi khong tienmt
+MediPay is a smart health solution implemented by HDBank | Edupay is a cashless tuition payment and search solution
+Kiosk|Kiosk | Ung dung |Application
+Loi ich | Benefits | Dangkykham,chabenhnhanhchong | Tinhnang chinh|Key | XacthucVNpCCCDganchip | ~435K | >1.500+ | 100%
+Register formedical examination quickly | Verify by VNeIDwith chip equippedID | GD thanh toan hoc phi | 9M2026 | Cosd giao duc | Ty le hai long cua KH
+enb buou qu nu n np eoy ugnu | Nhan dien khuon mat khi check-in | Tuition payments 9M2026 | Schools & universities | User sotisfaction rate
+dinh danh dien tr | Face recognition upon check in
+Standardize patient dato through e-identificotion | Thanh toan da kenh | Mult-channel payment | Mien phi |Free | Chinh xac |Accurate
+Thanh toan khong tien mat | Cashless payment of hospital fees | HIS connection to KCB sign up | Ket ndi HIS voi he thong dang ky | Khong phi thanh toan | No poyment fees | EduPay | thdigianthuc | Thong tin ducc ket ni theo
+Inforrmation is connected in
+Ung dung|Application | 100% an toan| 100% security | real time to a database
+Bao mat thong tin | Ty dong |Automatic
+~220K | Confidentiality | Ty dong ghi nhan va d6i soat | khi chuyén khoan hoc phi qua
+Thanh toan nhanh & de dang | Benh nhan phuc vu | 9T2026 | Tra cuuhoc phitrong 30 | Nhanh chong | Fast | QR | Reports credit and automatically
+Fast and easy payment | Potients served in 9M2026 | ok up tuition fees in 30s | giay | payment via QR code | checks when transfer tuition
+Ket nbi voi cac chuyen gia | Connect with specialists | Sau khisu dung EduPay,chung toidacat giam70%cac hoat dong lien quan den
+>530K | tienmat,giamkhoi luongcongviechanhchinh,
+Tiep can tong dai bac st | giadinh24/7 | 916 up ns 9s | works. | After using Edupay, we cut 70% off coshrelated activities and have less admin
+Access α 24/7 family doctor | MediPay usage as of 9M26
+coll center | +56%YoY | Phan hbi tir mot co so giao duc |Feedback from an education partner
+Nguon: Do lieu cong ty | Source: Company Data | EARNING PRESENTATION| 10
+```
+
+### Slide 07: Tài Trợ Chuỗi Giá Trị & Đồng Hành Cùng Chủ Trương Giảm Lãi Suất (Tín dụng Xanh, Gói SME)
+*Ảnh slide: `slides/slide_07.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+CapNhatHoatDongKinhDoanhQuy3/2026|BusinessandOperationUpdates
+TienPhongTai TrgChuoi GiaTri&DongHanhCungChuTruongGiamLaiSuat
+AdvancingValueChainFinancing&ProactivelySupportingInterestRateReductionInitiatives
+Chienlugctiepcankhachhang theochuoigia tri(Q3/2026) | Tienphong trienkhaichinhsachlaisuatuudaitheodinhhuongcuaChinhphu
+Uniquecustomersapproachthroughvalue chainfinancing(3Q2026) | Proactivelyimplementpreferentiallendingpoliciesinalignmentwithgovernmentguidance
+Cho vay&bao lanh trong chuoigia tri | Du' ng tin dung xanh | HDBank trien khai goi tin dung 10.000 ty dong cho
+Value chain loans &guarantees | Green loans balance | linh vuc uu tien, giam lai suat 1,5%/nam so voi muc
+45,8 nghinty VNDI VND tn | 6,1 nghin t VNDI VND tn | uu dai cho doanh nghiep SME. | HDBank launches a VNDi0 trillion credit package for
+18,6%YoY | priority-sector businesses,offering rates 1.5%p.a. below
+Khach hang chuoi gia tri | Ty le CASA tur KH chuoi gia tri | existing preferential rates for SMEs
+Valuechain customers | Value chain CASA
+>8,1k khach hang Icustomers | ~40% | HDBank danh 5.000 ty dong ho tro KHCN va doanh
+10,0%YoY | thoi giam 0.5% lai suat huy dong. | nghiep sieu nhovoi lai suat giam1,5%/nam.,dong
+HDBank allocates VND5 trillion to individuals and micro-
+HDBank m?rong hop tacchienluocvoi cac dinhche taichinh quoc te | enterprises at lending rates 1.5 percentage points p.a.
+HDBank expands strategic partnership with global financial institutions | lower, alongside a 0.5 percentage-point cut in deposit
+Thang 09/2026, HDBank ky MoUs voi Citi va | rates..
+StandardChartered,maronghop tacve
+ly ngan quy va ngoai hoi. | thanh toan qu6c te, tai trg thuong mai, quan | DOPHUNU LAMCHU | TAITAODOANHNGHIEP | HDBank trien khai goi tin dung 2.000 ty dong danh
+Standard Chartered to expand cooperation in | In September 2026, HDBank signed MoUs with Citi and | 7,8 | uu dai tu7,8%/nam denhet Q1/2027. | cho doanhnghiep do phyni lam chu,voi lai suat
+andFX | intermational payments, trade finance, cash management | 2.000 | HDBank allocates VND2 trillion in preferential financing for
+Nghien cuu huy dong vonquoctlen tai 1ty | Le ky ket thoa thuan hap tdc qu6c te | 5 | 7.8% p.a. through the end of Q1/2027 | womenownedbusinesses,with interestrates starting from
+USD, tiepnoikhoanvayhqpvon qu6c t721
+trieu USD trudc d6.
+n n | building on the previous USD721 million syndicated loan.
+Nguon: Do lieu coing ty | Source: Company Data | EARNING PRESENTATION |11
+```
+
+### Slide 08: Dấu Mốc Quan Trọng: Khai Phiên Giao Dịch Tại NYSE & Thương Hiệu Quốc Gia 2026
+*Ảnh slide: `slides/slide_08.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+CapNhatHoatDongKinhDoanhQuy3/2026|BusinessandOperationUpdates
+NhungDauMocQuanTrong:KhangDinhVi TheHangDau
+KeyCorporateEvents:AffirmingOurLeadingPosition
+LanhdaoHDBankthamdusykienkhaiphiengiaodichtai NYSE | HDBanktieptuckhangdinhvi thethuonghieuquocgia
+HDBank leadership participates in the NYSEMarketOpen Ceremony | HDBank conitinues to strengthen its position as α leading rational brand
+SANPHAMBATTHU
+NYSe | CNBC
+DONGC
+THUONGI
+Ngay 21/09, TS. Nguyen Thi Phuong Thao cung lanh dao HDBank tham dur Le rung | HDBank tiép tuc dugc vinh danh Thuang hieu Qu6c gia Viet Nam 2026, ghi nhan cam
+chuong khai mac tai NYSE.
+On September 21,2026, Dr.Nguyen Thi Phuong Thao attended the NYSE Opening Bell | HDBank was once again recognized as a Vietnam National Brand 2026,reflecting its
+ceremonyalongsideHDBank executivemembers.
+Tai su kien,HDBank traod6i voi lanh dao SaGiao dichve tang cuang ket noi thi | Tren thi truong qu6ct,HDBankdung thu 2 trong Top50nganhang niemyet Dang
+truongvonViet Nam-HoaKyvaket noidoanhnghiepViet Namvoi cacquy dau | Nam A theo S&P Global.
+turtoan cau.
+During the visit,HDBank engaged with NYSE leadership on strengthening Vietngm-U.S.
+capitalmarketconnectivityandlinkingVietriormesecorporateswithglobalinvestmentfunds
+Nguan: Do lieu cong ty | Source: Compony Doto | EARNING PRESENTATION | 12
+```
+
+### Slide 09: Dấu Mốc Quan Trọng: Giải Thưởng Tín Dụng Xanh & Nông Nghiệp Bền Vững (APEA 2026)
+*Ảnh slide: `slides/slide_09.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+CapNhatHoatDongKinhDoanhQuy3/2026|BusinessandOperationUpdates
+NhungDauMocQuanTrong:KhangDinhViTheHangDau
+KeyCorporateEvents:AffirmingOurLeadingPosition
+HDBanknhangiai thuongtindungxanh&hotrodautunongnghiepbenvuing | APEA2026vinhdanhHDBankvequantri benvungvaminhbach
+HDBankreceivedawardof outstanding bankforgreen credit&forhigh-techagriculture | HDBankreceived theCorporateIntegrityandGovernanceExcellenceAward”atAPEA
+development | 2026
+FORGINGLEGACY
+HDBank tiep tuc ghi dau än voi hai giai “Ngan hang Tieu bieu ve Tin dung xanh* va | HDBank dugc vinh danh tai APEA 2026 vé quan tri ben vung va minh bach, khang
+dinh cam ket nang cao chuan muc quan tri doanh nghiep.
+Vietnam Outstanding Banking Awards2026. | HDBank was recognized at APEA 2026 for sustainable and transparent governance, reaffrming
+HDBank received two awards at the Vietnam Outstanding Banking Awards 2026 for Green | its commitment to high corporate governance standards.
+Credit and for High-Tech Agriculture Development. | Ong Nguyen Hou Dang.Tong Giam d&c HDBank,dong thai nhan giaiDoanh nhan
+Giai doan2019-2025,HDBank giai ngan hon 42.000 ty dong cho cac dy an xanh; | xuatsacChauA,ghinhannhung donggop trong dieuhanhva thucdaytang trung
+dong thaihuy dongvonqua traiphieuxanh trong nuac3.000 ty dongva traiphieu | ben ving cua Ngan hang.
+xanh qu6c te 100 trieu USD. | Mr.Nguyen Huu Dang,HDBank's CEO,also received theMaster Entrepreneur Awardin
+From 2019 to 2025, HDBank disbursed over VND 42 trillion to green projects and raised | recognition of his leadershipand contributions to theBank's sustainable growth..
+funding through VND 3 trillion in domestic green bonds and USD 700 million in international
+Ngua8/BerRabeBRgty | SourceCompany Data | EARNINGPRESENTATION|13
+```
+
+### Slide 10: Bối Cảnh Vĩ Mô: Tăng Trưởng GDP Tích Cực Trong Bối Cảnh Áp Lực Lạm Phát
+*Ảnh slide: `slides/slide_10.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+Da Tang Truong GDP Tich Cuc Trong Boi Canh Ap Luc Lam Phat Gia Tang
+RobustGDPGrowthAmidRisingInflationaryPressures
+3Q26fundamentalsremainsolid，conduciveforstrongperformance | Nentangvimovungchactaotiendechotang truongmanhme | Cacchisokinhtevimo | indicators | Keyeconomic | 2025 | 9T2026
+6,8% | 7,1% | 6,9% | 7,5% | 7,9% | 8,0% | 7,8% | 8,2% | 9.09
+Tang truong GDP | GDPgrowth | +8,02% svck | +9,01% svck
+7,4% | 7,6% | 7,1% | 8,2% | 8,3% | 8,5% | 7,9% | 8,4% | 10,0% | CPI | CPI | +3,31% svck | +4,52% svck
+Tong kim ngach xuat | Totaltradetunover | 930tyUSD | 888tyUSD
+Q3/24 | Q4/24 | Q1/25 | Q2/25 | Q3/25 | Q4/25 | Q1/26 | Q2/26 | Q3/26 | khau | (+18,2% svck) | (+30,5% svck)
+Quarterly GDP growth (Vo1) | Tang truong GDPtheoquy (svck) | TangdrucongGPPloyke theoquy(svck)
+(YOY) | Xuat khaurong | Net export | 20 ty USD | -19,4 ty USD
+FDI dangkytrong9M26tangtoc,phananhdatang truongbenvung
+9M26RegisteredFDIaccelerated,reflecting sustainablemomentum | FDI dang ky | RegisteredFDI | 38,4 ty USD | 50,4 ty USD
+(+0,5% svck) | (+76,4% svck)
+50,4
+38,2 | 38,4 | 34,7 | FDI giai ngan | DisbursedFDI | 27,6 ty USD | 21,1 ty USD
+24,8 | 25,4 | 28,5 | 27,6 | (+9,0% svck) | (+12,1% svck)
+17,3 | 11,0 | 21,5 | 11,.7 | 18,8 | 15,2 | 13,0 | 21,1 | 7.009 nghin ty | 5.296 nghin ty
+5,0 | Tong muc ban le | Retail sales | VND | VND
+(+9,3% svck) | (+13,4% svck)
+Q3/24 | Q4/24Q1/25 | Q2/25 | Q3/25 | Q4/25 | Q1/26 | Q2/26 | Q3/26 | Kehoach chi dau tu | Publicspendingplan | 755nghin tyVND | 643nghin tyVND
+FDI dang ky (ty USD) | FDI giai ngan (ty USD) | cong(%kehoachnam) | %Disbursement | (82,7% kehoach) | (62,9%kehoach)
+Regisrered FDI (USDbn) | Disbursea FDI (USDbn)
+NiguonTong ucthing keFinx,B6TaiChinh | erolStatisticsOfficeVietnom | FenxPlatformMinistry ofFinance | EARNING PRESENTATION | 15
+```
+
+### Slide 11: Lãi Suất Tiếp Tục Tăng Cao, Dù Thanh Khoản Đã Cải Thiện Nhẹ
+*Ảnh slide: `slides/slide_11.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+Lai Suat Tiep Tuc Tang Cao, Du Thanh Khoan Da Cai Thien Nhe
+InterestRatesPressuresPersist,DespitesGradualImprovementInSystemLiquidity
+Laisuathuydong&Laisuatchovay|Depositrate&Lendingrate | Cacchisokinhtevimo | indicators | Keyeconomic | 2025 | 9T2026
+12,0% | 10,9% | Tang truong tin dung | Creditgrowth | ~19,0% | 11,59%
+10,0% | 9,0% | Tang truong huy dong | Deposit growth | ~13,9% | 9,78%
+8,4%
+8.0% | Lai suat dieu hanh | Referenceinterest rate4,50%,Khong doi4,50%,Khong d6i
+6,7% | 7,8%
+6,0% | 6,2% | Ty gia VND/USD thi | VND/USDmarket | 26.499 - 26.754 | 25.900 - 25.950
+5,9% | truong (cuoi ky) | rate(end-period) | VND/USD | VND/USD
+4,0% | 4,9% | Ty gia VND/USD trung | VND/USDcentral | 25.121VND/USD | 25.627 VND/USD
+tam (cubiky) | rate(end-period) | (+3,2% svck) | (+1,7% svck)
+2,0% | 2.650 nghin ty | 2.187 nghin ty
+01/25 | 05/25 | 09/25 | 01/26 | 05/26 | 09/26 | Thu ngan sach nha nuocStatebudgetrevenue | VND | VND
+(+29,7% svck) | (+ 12,1% svck)
+Average deposit rate (highest) | LS huy dong binh quan (cao nhait) | Average deposit rate (lowest) | = LS huy dOng binh quan (th&p nhit) | Statebudget | 2.401 nghin ty | 1.874 nghin ty
+LS cho vay binh quan (cao nhat) | LS cho vay binh quan (thap nhait) | Chi ngan sach nha nudc | expenditure | VND | VND
+Averoge lending rate (highest) | Average lending rote (lowest) | (+31,2% svck) | (+14,5% svck)
+Plotform, Ministry of Finance | EARNING PRESENTATION | 16
+```
+
+### Slide 12: Một Số Điểm Nhấn Tài Chính Nổi Bật 3Q26 (Key Financial Highlights 3Q26)
+*Ảnh slide: `slides/slide_12.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+MotSoDiemNhanTaiChinhNoiBatQ3/2026
+HDBank'sFinancialHighlights3Q2026
+Tang truong | Tang truong tin dung toan nganh dat xap xi 11,6%. Da tang truong tin dung vuot troi cua HDBank den tu
+tin dung().(2) | 28,6%YTD | chovaybanbuon/banle,chovaytieu dungvachovay xaydung | Sector-wide credit growth is apprx. 71.6%. HDBank's robust lending growth is attributable to wholesale/retail lending, personal, and
+Creditgrowth | construction.
+Tang truong | Trong boi canh tang truong tien guri toan nganh chi dat ~9,8% (28/09/2026), HDBank van duy tri tang
+tien gui TT1(1) | 29,1%YTD | truong vuot troi,dandatboi tienguiKHCN | Sector-wide deposit growth is at appx. 9.8% (as of 28/09/2026), while HDBank's robust deposit growth is driven by retail segment
+Depositgrowth | deposit growth
+LNTT() | 18.379tyVND | Robust and sustained profit growth driven by diversified revenue generation and ecosystem synergies | Tang truong loi nhuan cao va ben vung nho da dang hoa nguon thu va hieu qua hop luc tu he sinh thai
+Profit-before-tax | +24,2% YoY | Ty le CiR va chi phi tin dung dudc duy tri 6n dinh, phan anh hieu qua van hanh va chat luong tai san
+CiRand creditcost arebothremainwell-controlledreflecting disciplined costmanagementand soundassetquality
+CAR() | 13,9% | rui ro | He s6 an toan von tiep tuc nam trong nhom cao nhat thi truong, phan anh ky luat quan tri von va quan tri
+(Basel lI) | CARratio remained among the strongest in the market, reflecting disciplined capital management and prudent risk governance
+22,8% | ROE thuoc nhom cao nhat nganh ngan hang Viet Nam, dugc thuc day boi tang truong tin dung va t6i uu
+ROE(1) | Dandauthitruong | chi phi.
+Market-leading | One of the highest ROE in the Vietnam banking sector, driven by robust loans growth and cost efficiencies
+Ty le ng xau | 2,55% (TT 31) | phankhach hang vay von. | Ty le no xau Q3/2026 tang phan anh xu huong chung cua nganh va tac dong cua thi trudng d6i voi mot bo
+NPLratio | The Q3/2026 NPL ratio uptick reflects broader industry trends and market-driven pressures affecting certain borrower segments..
+(1) S6 lieu hdp nhat. (2) Du ng tin dung bao gom du ng cho vay khach hang, mua nd va trai phieu doanh nghiep (khong bao gom trai phieu VAMC) | EARNING PRESENTATION |17
+```
+
+### Slide 13: Dẫn Đầu Về Hiệu Quả Sinh Lời Trong Top 10 Ngân Hàng Lớn Nhất (LNTT, CIR, ROE, NIM)
+*Ảnh slide: `slides/slide_13.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+HDBank - Dan Däu Ve Hieu Qua Sinh Loi Trong Top 10 Ngan Hang Lon Nhat(1)
+HDBank-TheMostProfitableAmongTop10 LargestBanks
+Loinhuan truocthue(9M2026)|Profitbeforetax(9M2026) | Ty leChiphi /T6ng thunhap(9M2026)|Cost-to-lncomeratio(9M2026)
+Don vi: ty VND | Unit: VNDbn | Ddn vi % | Unit: %
+%YoY | 22% | 34% | 32% | 25% | 47% | 24% | 24% | 3% | 17% | -46% | 32,0% | 32,6% | 32,7%
+30,5% | 31,0%
+40.44039.557 | 24,7% | 24,9% | 26,3%
+30.51829.48329.91128.915 | 19,2% | 21,0%
+18.379 | 16.614 | 14.309
+5.893
+VCB | CTG | MBB | BID | VPB | TCB | HDB | ACB | SHB | STB | SHB | VPB | CTG | HDB | MBB | TCB | ACB | VCB | STB | BID
+TyleNIMhopnhat(9M2026)|ConsolidatedN/M(9M2026) | Hieu qua sinh l0i(9M2026)|Profitability Ratios(9M2026)
+Don vi: % I Unit: % | %Un |%upG
+4,9% | 4,1% | 3,9% | 22,8% | 21,8% | 21,3% | 20,7% | 18,4% | 17,9% | 16,8% | 16,7%
+3,5% | 3,1% | 3,0% | 2,9% | 2,9% | 16,3%
+2,4% | 2,0% | 9,2%
+1,9% | 1,5% | 1,9% | 1,6% | 1,7% | 1,7% | 0,9% | 2,4% | 0,6%
+HDB | CTG | MBB | SHB | VCB | ACB | VPB | BID | TCB | STB
+VPB | MBB | HDB | TCB | VCB | ACB | SHB | STB | BID | ROE (nien hoa) | ROA (nien hoa)
+(Nguon: Do lieu cong ty.Finpro,Vietcap| Source: Company Data,FinPro,Vietcap | (1)Top10ngan hang lon nhat theo tong taisan tai3Q/2026|Top10largest bank by total assets asof 3Q2026 | EARNINGPRESENTATION|18
+```
+
+### Slide 14: Tăng Trưởng Tiền Gửi Cao & Nền Tảng Vốn Vững Mạnh Trong Nhóm Dẫn Đầu (Tiền gửi TT1 & CAR)
+*Ảnh slide: `slides/slide_14.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+Tang Truong Tien Gui Cao Va Nen Tang Von Vung Manh Trong Nhom Dan Dau
+RobustDepositGrowth,andaSolid,Market-LeadingCapitalPosition
+Tienguikhachhang(3Q2026)|CustomerDeposit(3Q2026) | Tyléantoanv6nCAR(3Q2026)|CapitalAdequacyRatio(3Q2026)
+Don vinghin ty VND | Unit VND tr | Dcn vL% | Unit %
+%YTD | 6% | 8% | 7% | 8% | 26% | 25% | 26% | % | 13%
+2.361
+15,0%
+1.944 | 13,9% | 13,8%
+1.782 | 12,0% | 12,0%
+10,7%
+9,9%
+994
+793 | 775 | 709 | 661 | 646 | 596
+BID | CTG | VCB | MBB | VPB | STB | HDB | TCB | SHB | ACB | TCB | HDB | VPB | SHB | ACB | STB
+/9/v920/90/() | Nguan: Do lieu cong ty, Fin Pro.| Source Company Doto,FinPro | EARNING PRESENTATION|19
+```
+
+### Slide 15: Tăng Trưởng Huy Động Vốn & Cho Vay Theo Phân Khúc Khách Hàng (Cá nhân & Doanh nghiệp)
+*Ảnh slide: `slides/slide_15.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+Tang Truong Huy Dong Von & Cho Vay Phan Anh Nen Tang Khach Hang Vung
+Chac
+RobustDepositAnd LoanGrowthHighlightingStrongCustomerBase
+Tienguitheophahkhuckhachhang|Depositsbybusinesssegment | Dunachovaytheophankhuckhachhang|Loanstocustomersbybusiness
+Don vi: nghin ty VND | Unit: VNDtn | +29.1% | YTD | seqment | D vi:nghin ty VND |Unit: VNDtn | +28,1% | YTD
+837 | 11 | 730 | +525%
+127 | +45.7%
++19.9%
+649 | 570 | 200
+87 | +37.6%
+518 | 431 | 146
+422 | 81 | 18
+51 | 597 | +34.1% | 343 | 142
+446 | 264
+217 | 43 | 259 | 269 | 203 | 134 | 493 | +22.4%
+34 | 121 | 403
+94 | 142 | 95 | 271
+89 | 74 | 102 | 104 | 115 | 112 | -2.9% | 95 | 126 | 193
+2021 | 2022 | 2023 | 2024 | 2025 | 3Q2026 | 2021 | 2022 | 2023 | 2024 | 2025 | 3Q2026
+■KHDN | Wholesale | KHCN | Retail | GTCG |Valuable Paper | Cho vay ky quy | Margin lending | Tai Chinh Tieu Dung | Consumer Finance
+qenounuun | EARNING PRESENTATION | 20
+```
+
+### Slide 16: Danh Mục Tín Dụng Đa Dạng Thúc Đẩy Tăng Trưởng Cho Vay Bền Vững (Cơ cấu ngành & Bán lẻ)
+*Ảnh slide: `slides/slide_16.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+DanhMucTinDung Da Dang ThucDayTangTruong ChoVay BenVung
+DiversifiedCreditPortfolioSupportsResilientLoanGrowth
+CdcauchovaykhachhangcuaHDBank|Customers LoansBreakdown | Co cau cho vaykhachhang ca nhan cua HDBank|Retail CustomersLoans
+Breakdown
+18,6% | 3,6%0,1%
+Ho gia dinh& Tieu dung | 3,3% | Tieu dung canhan
+Househoid & consumptin (retail) | 2,9% | Personal
+BDS | 11,2% | Nong nghiep
+Real Estates | 33,0% | Agriculture
+Ban le, ban buon va DV | 14,1% | Mortgage | Chovay mua nha
+ailWolesaleandAutomotive | 16,5%
+Xaydung | 32,2% | Hosgialginh
+Construction
+Che bien cong nghiep | 14,3% | Taisehierifitiege
+Manufacturing | 21,2% | Rhas | dung
+Logistic &Kho bai | 16,7%
+Logistic &Warehouse | Auto
+Khac | 12,2%
+Others
+Cho vayKHCN tiep tuc dandat tang truong tindung trongQuy ll/2026,nhd datang cua cackhoanvay tieudung vachovayhogia dinh
+Retail Lending is the key loan growth driver supported by robust growth in personal and household loans as the retail consumption remqins resilient.
+Cho vay KHDN ghi nhan tang trudng tichcuc,tap trung tai trgKH trong cacchuoi gia tri, xay dung,va ban buon/banlé
+Nguon: Du lieu cong ty | Source: Company Dota | EARNINGPRESENTATION|21
+```
+
+### Slide 17: Khả Năng Sinh Lời Bền Vững Trong Bối Cảnh Lãi Suất Biến Động (NIM, Chi phí vốn COF, Lợi suất IEA)
+*Ảnh slide: `slides/slide_17.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+Kha Nang Sinh Loi Ben Vung Trong Boi Canh Lai Suat Bien Dong
+ResilienceProfitabilityAmidTemporaryInterestRatesVolatility
+Loinhuan truoc thue&Ty leChiphi / Thu nhap(CIR)|Profit beforeTax&C/R | NIM, Chi phi von, Loi suat tai san (luy ké tir dau nam) | NIM, Funding Cost, Yield on
+UqCNA Un I aNA  :(A UpG | IEA | Ddn vi: % I Unit: %
+38,1% | %6 | 34,6% | 35,2% | 12,2%
+27,2% | 25,7% | 24,9% | 9,6% | 10,5% | 9,5% | 9,9%
+21.3... | 18.379 | 8,3%
+10.268 | 13.017 | 16.730 | 14.803 | 5,2% | 5,1% | 5,6% | 4,8%
+8.070 | 4,4% | 3,9%
+2021 | 2022 | 2024 | 2025 | 9M2025 | 9M2026 | 3,9% | 4,4% | 6,7% | 4,7% | 4,6% | 6,0%
+CIR
+Hieu qua sinh loi|Profitability Ratios (annualized) | 2021 | 2022 | ILoi suat tai san | 2023 | 2024 | NIM | 2025 | 9M2026
+Don vi: % I Unit: % | 25,7% | Yield on IEA | Cost
+23,3% | 23,5% | 24,2% | 25,3% | 22,8% | Tyle NIM  Q3/2026giam xuong muc 3,9%doap luc chi phi von nganhan
+tu canh tranh huy dong tien guri, cung voi chinh sach uu dai lai suat.
+QuarterlyNIM（annualized）declinedto3.9%duetoshort-termfunding costpressureresulting
+from competition for deposits., alongsidle HDBank's proactive support to lower interest rates
+NIMky vong phuc hoi trongQ4/2026nhd nen tang thanhkhoan doidao,cd
+1,9% | 2,1% | 2,0% | 2,0% | 2,1% | 1,9% | co cau tin dung sang phan khuic ban le c6 loi suat cao han. | ché tai dinh gia lai suat cho vay sau thoi gian uu dai va chien lugc dich chuyen
+NIMisxpctedtecoverinQ026surtdbyHBanksstrongliquiditypositionl
+2021 | 2022 | 2023 | 2024 | 2025 | 9M2026 | products.
+ROAE | ROAA
+Nguan: Do lifu coing ty | Source: Company Data | EARNING PRESENTATION| 22
+```
+
+### Slide 18: Bộ Đệm Dự Phòng Vững Chắc & Chi Phí Tín Dụng Thấp (NPL TT31, LLR, Tài sản đảm bảo)
+*Ảnh slide: `slides/slide_18.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+BoDemDuPhongVungChac&ChiPhi TinDungThapNhoQuanTriThan
+Trong
+RobustProvisionBuffers&ImprovingCreditCostThanksToPrudentRiskManagement
+Tylenoxau(TT31)&Tylébaophu|NPL(Cir.37)ahdCoverageratios | Duphong&Chiphi tindung|ProvisionsaMdCreditcosts
+Don vi: % | Unit % | Don vi: ty VND | Unit: VNDbn
+258,7% | 259,6% | 1,95% | 2,25%
+225,8% | 1,21% | 1,31% | 1,47% | 1,35% | 1,48%
+201,6% | 197,3% | 189,0% | 11.412
+73,0% | 70,4% | 65,8% | 68,7% | 56,1% | 7.479 | 6.180 | 5.999
+46,0% | 5.879
+4.054 | 2.578 | 3.230 | 2.496
+1,48% | 1,66% | 2,55% | 2.452 | 3.101 | 1.491
+1,02% | 1,27% | 1,33% | 2,459 | 935 | 1.131 | 3.301 | 4.249 | 3.684 | 5.413
+0,96% | 1,10% | 1,28% | %05 | 1.517 | 1.970 | 2.563
+2021 | 2022 | 2023 | 2024 | 2025 | 3Q2026 | 2021 | 2022 | 2023 | 2024 | 2025 | 9M2025 | 9M2026
+Ty Ie nd xau (NH me) I NPL (parent) | Ty le no xau (hop nhat) I NPL (conso.)
+Ty lebao phu ng xau (hopnhat) | LLR | Ty lebaophu tai sandam baol Collateral Coverage | Duphongchung | Duphong cu the | Chi phitin dung
+General Provision | SpecificProvision | Credit Cost
+Nguon: Do lieur cong ty. Tong du no cho vay boo g | ung bao gom chi phi du phong cho coc khodn cho | EARNING PRESENTATION| 23
+```
+
+### Slide 19: An Toàn Vốn & Thanh Khoản Luôn Được Đảm Bảo (CAR Basel II, LDR TT22, Tỷ lệ vốn ngắn hạn cho vay TH-DH)
+*Ảnh slide: `slides/slide_19.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+DiemNhanTaiChinhQuy3/2026|3Q2026FinancialHighlights
+AnToanVonVaThanhKhoanLuonDuocDamBao
+StrongCapitalStrengthandResilientLiquidityProfile
+Ty LeAnToanVon(CAR)|CapitalAdequacyRatio | Ty Le An Toan Thanh Khoan (Rieng le)| Solid Liquidity Ratios (Parent bank)
+16,7% | Gioihan LDRtoida85%theoquy.dinhSBV'sLDRcapof85%
+76,6%
+14,4% | 13,4% | 14,0% | 13,9% | 66,7% | 66,2% | 68,5% | 67,0% | 68,2%
+12,6% | 6,0%
+4,3% | 2,8% | 5,3% | 5,3%
+3,6%
+10,1% | 10,6% | 10,8%
+9,0% | 8,7% | 8,6% | Ngu@ng ty | 31,1%
+thieu theo | le CAR toi | 19,0% | 22,5% | 17,2% | 20,1%
+qulp Knb
+9,9%
+threshold:8% | minimum CAR
+2021 | 2022 | 2023 | 2024 | 2025 | 3Q2026 | 2021 | 2022 | 2023 | 2024 | 2025 | 3Q2026
+V6n cap 1| Tier 1 | V6ncap 2|Tier 2 | LDR | Nguon von ngan han cho vay trung-dai han | ST funding to MT loans
+Voinn tang vonvung manh va he thong quan tri rui ro toan dien,HDBank durkien ap dung phudng phap tinh ty le an toan von (CAR) theo chuan Baselltu nam 2027
+Given our strong capital strength and robust risk management system, HDBank plans to adopt calculating CAR under Basel I in 2027
+Tinh den ngay 30/09/2026, ca hai chi s6NSFR va LCR du duy tri tren nguong 100%,phananh thanh khoanva cd cau nguon von  muc vuing chac
+Both NSFR and LCR far exceeded 100% as of September 30,2026
+Nguon: Du lieu cong ty | Source: Company Data | EARNING PRESENTATION| 24
+```
+
+### Slide 20: Kế Hoạch Kinh Doanh 2026 của HDBank (Financial Outlook 2026F & Sáng kiến Chiến lược)
+*Ảnh slide: `slides/slide_20.png`*
+
+#### Số liệu & Văn bản trích xuất:
+```text
+HDBank
+KeHoach2026|2026FinancialOutlook
+KeHoachKinhDoanh2026cuaHDBank
+HDBank'sKey2026FinancialTargets
+CacMucTieu Tai Chinh 2026|Key Financial Guidance2026 | CacSangKienChienLuroc|StrategicInitiatives
+Huongtoitrainghiemsovuottroi
+(VND tn) | (nghin tyVND) | 2025A | 9M2026 | 2026F | FY26vs.FY25 | AimingatSuperiorDigital Experience
+Trai nghiem khach hang s6 lien mach, thong qua chuyen doi he
+thong corebanking toan dien
+Total assets | Tong tai san | 931 | 1.143 | 1.194 | 28% | Createaseamlessdigitalcustomerexperiencewithcorebankingtransformation
+Nang cao hieu qua chi phi thong qua tur dong hoa xuyen suot cac
+TotalDeposits | Tien gui TT( | 648 | 837 | 822 | 27% | chuc nang, quy trinh nghiep vu va hoat dong kinh doanh | Enhancecostefficiency by implementingautomationacrossvariousfunctions
+Du ng tin dunge | 588 | 756 | 805 | 37% | MaximizeHDFinancial Groupsynergy | ToidahoasyconghuongcuacaccongtythanhvientrongHDBank
+Outstanding credit balance | ·Thu hut khach hang cheo gita caccong ty thanh vien thong qua
+Loi nhuan trudc thue | 21,3 | 18,4 | 30,1 | 41% | chuong trinh khachhang than thiet tich hop
+Profitbefore tax | Trienkhai bancheosanphamva cacchien dich quang ba cheo
+ROAE | 25,3% | 22,8% | >25% | Cross-sell and cross-promotion campaigns, joint marketing initiatives | Nentangdilieukhachhang hopnhatvaphat triensanphamdong
+bo
+ROAA | 2,1% | 1,9% | >2% | Toi dahoagia tricaccong ty thanhvien | Unifiedcustomerdataplatformandcollaborativeproductdevelopment
+Tyleng xau (TT31)(3) | khanang | pesmotsancongty thanhvientrongTapdoan
+NPL (Cir.31) | 1,66% | 2,55% | <2,0% | Tai chinh HD nham t6i da h6a gia tri cho c6 dong | Potentially IPOs certain company within HD Financial Group to maximize
+shareholdervalues
+pnss sadiod aqonjo puosaupsn oanpsoda jopo1queu eud ep e5 go g ei5 e 5ueu upeu  uawgioeq i n ue () | 2)Duntindung khongvugthanmctang trngtindungducNgnhangNhanucpheduyet|Outstnding credibalncemustotexceed thecreditgrowthlimitpproved bytheStateBank
+of Vietnam | EARNING PRESENTATION|28
+```
+
+---
+
+## PHẦN III: NGUYÊN TẮC ÁP DỤNG KHI ĐỐI CHIẾU & BIÊN TẬP (AUDIT & RECONCILIATION PROTOCOL)
+1. **Chân Lý Chuẩn (Single Source of Truth - SSOT)**: Toàn bộ số liệu định lượng trong `full_transcript.md` và `analyst_report.md` bắt buộc phải đối soát trực tiếp với dữ liệu trích xuất từ slide tại tài liệu này.
+2. **Hiệu chỉnh sai lệch âm thanh / ASR**: Khi diễn giả làm tròn số hoặc ASR nhận diện nhầm thuật ngữ, số liệu trên slide là căn cứ pháp lý cao nhất để hiệu chỉnh.
+3. **Cách ly nguồn dữ liệu (Source Isolation)**: Báo cáo chỉ sử dụng dữ liệu từ tài liệu trình chiếu kỳ 3Q26 & 9M26 này, chống rò rỉ dữ liệu ngoài.
